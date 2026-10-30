@@ -39,7 +39,7 @@ Scenario 2: You pay the minimum plus $100 each month | $2,000 | $160 | 18% | 1 y
 
 Use the Credit Card Payment Calculator to compare your payment options.
 Your credit card issuer may be a federally regulated financial institution. In that case, your credit card statements must include the time required to pay off your balance by only paying the minimum amount.
-Learn more about the information your financial institution must give you about your credit card.​
+Learn more about the information your financial institution must give you about your credit card.
 
 ## Payment holidays
 Your credit card issuer may offer you a payment holiday. This means they'll let you skip a payment. You'll still pay interest.
@@ -73,5 +73,3 @@ Learn how to file a complaint with your financial institution.
 - How credit cards work
 - Using your credit card responsibly
 - Paying back your debt
-
-​​

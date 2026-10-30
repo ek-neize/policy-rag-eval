@@ -73,6 +73,7 @@ Before giving you a payday loan, lenders may require that you:
 Learn more about pre-authorized debits.
 
 ### Getting money from a payday lender
+
 In most cases, the payday lender will deposit money in your bank account or give you cash.
 In some cases, the payday lender may issue you a prepaid card. They also call these cash cards. It may cost extra to activate and use the card.
 

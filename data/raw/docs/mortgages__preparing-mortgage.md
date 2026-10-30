@@ -57,7 +57,7 @@ If you already have a mortgage, you’ll need to pass this stress test if you:
 
 - refinance your home
 - take out a home equity line of credit
-Use the Mortgage Qualifier Tool​ to see if you can qualify for a mortgage.
+Use the Mortgage Qualifier Tool to see if you can qualify for a mortgage.
 
 ### Related links
 

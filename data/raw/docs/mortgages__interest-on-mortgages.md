@@ -52,6 +52,7 @@ Make sure your home is within your budget. Consider if you’re comfortable with
 Use the Mortgage Calculator Tool to estimate your payments.
 
 ## How your credit rating affects your interest rate
+
 Lenders look at your credit report and credit score to decide if they will lend you money. They also use them to determine how much interest they will charge you to borrow money.
 If you have no credit history or a poor credit history, it could be harder for you to get a mortgage. If you have good credit history, you may be able to get a lower interest rate on your mortgage. This can save you a lot of money over time.
 Learn more about credit reports and credit scores.

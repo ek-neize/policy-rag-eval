@@ -12,6 +12,7 @@ You may want to break your mortgage contract if:
 Read your mortgage contract or ask your lender if you can break your mortgage contract.
 
 ## Cost to break your mortgage contract
+
 The cost to break your mortgage contract depends on whether you have an open or closed mortgage. An open mortgage allows you to break the contract without paying a prepayment penalty.
 If you break your closed mortgage contract, you normally pay a prepayment penalty. This fee can cost thousands of dollars.
 Before breaking your mortgage contract, find out if you’ll have to pay:
@@ -65,6 +66,7 @@ Contact your financial institutions to calculate the costs of your available opt
 Use the Mortgage Calculator to calculate your interest costs.
 
 ## Pros and cons of breaking your mortgage contract
+
 When interest rates fall, it may be tempting to break your mortgage contract. You may want to renegotiate a new one at a lower interest rate, or to blend-and-extend. Before you do, consider the pros and cons.
 
 ### Pros
@@ -85,5 +87,3 @@ For more information on breaking your mortgage contract, contact your lender.
 - Paying off your mortgage faster
 - Selling a home
 - Discharging a mortgage
-
-​

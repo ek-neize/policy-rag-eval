@@ -41,7 +41,7 @@ Learn more about the Canadian Deposit Insurance Corporation.
 A provincial or territorial deposit insurance provider may protect deposits at other financial institutions.
 If your province or territory regulates your financial institution, you can contact the deposit insurance provider. They may tell you what happens if the institution fails.
 Find your provincial or territorial regulator.
-Learn more about deposit insurance.
+Learn more about deposit insurance in Canada.
 
 ### Review what you have now
 Before you transfer your products or services to a new financial institution, there are things to consider. Make a list of all your products and services with your current financial institution, including automated transactions.
@@ -215,14 +215,14 @@ Learn more about transferring registered plans between banks.
 ## Checking your records after the transfer
 After you transfer your products or services, you may ask your financial institution for a list of the accounts you closed. You may also ask for a list of the products or services you cancelled.
 
-### Check your credit reports
-Check your credit reports to confirm that your financial institution closed your accounts.
-You may order your credit reports from Canada’s two main credit reporting agencies:
+### Check your credit report
+Check your credit report to confirm that your financial institution closed your accounts.
+You may order your credit report from Canada’s two main credit bureaus:
 
 - Equifax
 - TransUnion
 They usually take 30 to 90 days to update information on your credit report.
-Learn more about getting your credit reports and scores.
+Learn more about getting your credit report and score.
 
 ### Cancel your online banking access
 When you no longer have any products or services with that financial institution, cancel your online banking access.

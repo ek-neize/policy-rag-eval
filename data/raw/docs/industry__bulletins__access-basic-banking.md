@@ -55,7 +55,11 @@ There are no equivalent provisions in the Trust and Loan Companies Act or the In
 Questions relating to this bulletin should be sent
 
 - by email addressed to compliance@fcac-acfc.gc.ca or
-- by mail addressed to: Financial Consumer Agency of Canada Attention: Deputy Commissioner, Supervision and Enforcement Branch 427 Laurier Ave West, 6th Floor Ottawa, ON K1R 7Y2
+- by mail addressed to:
+Financial Consumer Agency of Canada
+Attention: Deputy Commissioner, Supervision and Enforcement Branch
+427 Laurier Ave West, 6th Floor
+Ottawa, ON K1R 7Y2
 
 Footnote 1
 For the purposes of this bulletin, 'standard ID' is in reference to s. 627.17(1)(a)(i) (A) to(G), Bank Act.

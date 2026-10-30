@@ -1,6 +1,6 @@
 # Joint credit cards
 
-## ​​Primary cardholder
+## Primary cardholder
 You’re the primary cardholder if you apply for a credit card and your name is on the agreement. You must be the legal age of majority in your province or territory to be a primary cardholder.
 As a primary cardholder, you:
 

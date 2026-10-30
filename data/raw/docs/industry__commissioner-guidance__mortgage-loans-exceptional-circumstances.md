@@ -85,7 +85,10 @@ Consumers at risk are contacted proactively and can easily access mortgage relie
 
 ## VII. Miscellaneous
 27. FRFIs that have questions relating to this Guideline can send their questions to compliance@fcac-acfc.gc.ca or mail them to:
-Financial Consumer Agency of Canada Attention: Deputy Commissioner, Supervision and Enforcement Branch 427 Laurier Ave West, 5th Floor Ottawa, ON K1R 7Y2
+Financial Consumer Agency of Canada
+Attention: Deputy Commissioner, Supervision and Enforcement Branch
+427 Laurier Ave West, 5th Floor
+Ottawa, ON K1R 7Y2
 
 Footnote 1
 The term FRFI refers to banks (including federal credit unions), authorized foreign banks, federal trust companies, federal loan companies, federal insurance companies and foreign insurance companies.

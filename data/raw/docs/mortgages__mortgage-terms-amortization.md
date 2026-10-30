@@ -5,6 +5,7 @@ Contact your financial institution to discuss your options.
 Use the Mortgage Calculator to estimate your payment amounts and interest costs.
 
 ## What are mortgage terms and amortization
+
 When you’re shopping for a mortgage, you need to choose the term and amortization period.
 The term and amortization period impact:
 

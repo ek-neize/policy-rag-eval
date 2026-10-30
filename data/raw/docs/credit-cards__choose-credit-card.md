@@ -28,7 +28,12 @@ You’re considering a low interest rate card with
 - an interest rate of 9%
 - a $50 annual fee
 
-Table 1: Compare the total cost of your current credit card with a low-rate card over a one-year period Type of credit card | Balance owing | Interest rate | Annual fee | Interest paid | Total cost to pay off balance (including annual fee) |
+Table 1: Compare the total cost of your current credit card with a low-rate card over a one-year period Type of credit card | Balance
+owing | Interest
+rate | Annual
+fee | Interest
+paid | Total cost to pay off balance
+(including annual fee) |
 Current standard card | $4,000 | 21% | $0 | $472 | $4,472 |
 Low interest rate card | $4,000 | 9% | $50 | $199 | $4,249 |
 

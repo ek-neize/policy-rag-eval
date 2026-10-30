@@ -32,6 +32,7 @@ Some companies offering help to pay off debt or repair credit are misleading con
 What you need to know when getting help to pay off debt or repair your credit.
 
 Look carefully at the agency’s advertising
+
 Be cautious. If it sounds too good to be true, it probably is.
 Some agencies or companies may claim or misrepresent that they:
 

@@ -26,7 +26,7 @@ Check statements from both institutions until you confirm:
 
 Help prevent fraud. Cut up old debit cards and cheques.
 
-Learn more about transferring your products and services to another financial institution.
+Learn more about transferring your financial products and services to another financial institution.
 
 ## Providing identification to open a bank account
 The bank must confirm your identity before opening an account. You must provide original identification, not copies.
@@ -81,8 +81,8 @@ They must also share:
 - the Ombudsman for Banking Services and Investments (OBSI) contact details
 - the Financial Consumer Agency of Canada (FCAC) mailing address, website and phone number
 You may file a complaint with your bank if you’re dissatisfied with a product or service.
-Learn how to file a complaint with a financial institution.
-Learn more about your rights when opening a bank account.
+Learn how to file a complaint with your bank.
+Learn more about your rights when opening a personal bank account.
 
 ### Related links
 

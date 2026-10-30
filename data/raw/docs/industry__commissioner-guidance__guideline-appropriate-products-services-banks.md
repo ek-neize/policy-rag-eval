@@ -76,4 +76,7 @@ A Bank should include controls relating to its remuneration, incentive and benef
 
 ## VIII. Miscellaneous
 25. Questions relating to this Guideline can be sent by email to compliance@fcac-acfc.gc.ca or by mail to:
-Financial Consumer Agency of Canada Attention: Deputy Commissioner, Supervision and Enforcement Branch 427 Laurier Ave West, 6th Floor Ottawa, ON K1R 7Y2
+Financial Consumer Agency of Canada
+Attention: Deputy Commissioner, Supervision and Enforcement Branch
+427 Laurier Ave West, 6th Floor
+Ottawa, ON K1R 7Y2

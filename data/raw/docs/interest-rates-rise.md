@@ -67,7 +67,8 @@ Suppose you have a mortgage of $300,000 with a variable interest rate and a 25-y
 
 Figure 1: Example of monthly payments for a mortgage of $300,000 with an amortization of 25 years at various interest rates
 
-Text version: Figure 1 Interest rate | 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% | 6.5% | 7.0% |
+Text version: Figure 1
+Interest rate | 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% | 6.5% | 7.0% |
 Monthly payment | $1,270 | $1,344 | $1,420 | $1,498 | $1,587 | $1,660 | $1,745 | $1,831 | $1,919 | $2,009 | $2,101 |
 
 Use the Mortgage Calculator to see the impact of an interest rate increase on your mortgage.
@@ -78,7 +79,8 @@ Your loan payment will increase by $24 a month if interest rates rise by 5%. Tha
 
 Figure 2: Example of monthly payments for a personal loan of $10,000 with a 2-year term at various interest rates
 
-Text version: Figure 2 Interest rate | 9.99% | 14.99% | 19.99% | 29.99% | 39.99% |
+Text version: Figure 2
+Interest rate | 9.99% | 14.99% | 19.99% | 29.99% | 39.99% |
 Monthly payment | $461 | $485 | $509 | $559 | $612 |
 
 ### When a rise in interest rates could affect your credit card payments

@@ -71,7 +71,7 @@ The bank must also disclose to you:
 - the contact information for the external complaints body: the Ombudsman for Banking Services and Investments (OBSI)
 - the Financial Consumer Agency of Canada’s mailing address, website address and telephone number
 You may file a complaint with your bank if you’re dissatisfied with how they treated you.
-Learn how to file a complaint with your financial institution.
+Learn how to file a complaint with your bank.
 
 ## Receiving notice of increased charges or new charges
 Your bank may increase charges or introduce new charges. If you receive account statements, the bank must give you information about the change in writing. The bank must do this at least 30 days before the change takes effect.

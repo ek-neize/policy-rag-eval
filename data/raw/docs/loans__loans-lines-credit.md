@@ -1,6 +1,6 @@
 # Lines of credit
 
-## ​What is a line of credit
+## What is a line of credit
 A line of credit is a type of loan that lets you borrow money up to a pre-set limit. You don't need to use the funds for a specific purpose. You may use as little or as much of the funds as you like, up to a specified maximum.
 You may pay back the money you owe at any time. You only pay interest on the money you borrow.
 To use some lines of credit, you may need to pay fees. For example, you may need to pay a registration or an administration fee. Ask your financial institution about any fees associated with a line of credit.

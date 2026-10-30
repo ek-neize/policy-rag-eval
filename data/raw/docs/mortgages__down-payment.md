@@ -58,7 +58,11 @@ Assume the following:
 - payment frequency is monthly
 - mortgage loan insurance premiums are added to the mortgage
 
-Table 2: Effect of the size of a down payment on the total cost of a mortgage Down payment | Down payment amount | Mortgage | Mortgage loan insurance premium | Mortgage (includes insurance premium) | Total cost of your home (includes all columns) |
+Table 2: Effect of the size of a down payment on the total cost of a mortgage Down payment | Down payment amount | Mortgage
+
+| Mortgage loan insurance premium | Mortgage
+(includes insurance premium) | Total cost of your home
+(includes all columns) |
 5% | $20,000 | $380,000 | $15,200 | $395,200 | $643,649 |
 10% | $40,000 | $360,000 | $11,160 | $371,160 | $625,712 |
 20% | $80,000 | $320,000 | Not required | $320,000 | $584,979 |

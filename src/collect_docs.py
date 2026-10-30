@@ -99,6 +99,10 @@ def html_to_text(main) -> str:
     for s in main.find_all(string=True):
         s.replace_with(re.sub(r"\s+", " ", s))
 
+    # Line breaks (<br>) become real line breaks, so words on either side don't merge.
+    for br in main.find_all("br"):
+        br.replace_with("\n")
+
     # Mark headings (# Title, ## Section) so chunking can use them in Step 2.
     for level in range(1, 5):
         for h in main.find_all(f"h{level}"):
@@ -116,6 +120,8 @@ def html_to_text(main) -> str:
     lines = [re.sub(r"[ \t]+", " ", line).strip() for line in main.get_text().splitlines()]
     lines = [line for line in lines if line not in {"-", "|"}]
     text = "\n".join(lines)
+    # Remove invisible characters: zero-width space, soft hyphen, byte-order mark.
+    text = re.sub("[\u200b\u00ad\ufeff]", "", text)
     return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 

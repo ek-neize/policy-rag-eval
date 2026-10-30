@@ -235,7 +235,7 @@ Find out more about optional mortgage insurance products.
 
 ### Related links
 
-- Buying a home​
+- Buying a home
 - How much you need for a down payment
 - Preparing to get a mortgage
 - Renewing your mortgage

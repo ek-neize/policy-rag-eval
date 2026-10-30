@@ -25,6 +25,7 @@ Good debt that may support long-term goals may include:
 
 - a loan for home renovations that may increase your home’s value
 - a student loan that may help you qualify for a job with a higher income
+
 Bad debt that may be harder to repay may include:
 
 - borrowing for a vacation
@@ -54,5 +55,3 @@ Learn more about express consent for financial products and services.
 
 - Before you sign any contract: 10 things you need to know
 - Credit and loans: know your rights
-
-​

@@ -1,6 +1,6 @@
 # Using your credit card responsibly
 
-## ​Tips when using your credit card
+## Tips when using your credit card
 When you use your credit card, you’re borrowing money that you have to pay back. A credit card doesn’t increase the amount of money you have. Your credit card spending should fit within your regular household budget.
 If you don't use your credit card wisely, you may end up:
 
