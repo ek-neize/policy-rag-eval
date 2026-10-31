@@ -1,0 +1,16 @@
+config,method,strategy,model,hit@1,hit@5,hit@10,mrr@10,hit@5_single,hit@5_paraphrase,evidence_recall@5_multi,passage_tokens@5,passage_cost_per_1000_queries,latency_p50_ms,latency_p95_ms,missed_at_5
+bm25|fixed|-,bm25,fixed,-,0.6667,0.8788,0.9394,0.7638,0.9362,0.6,0.7778,1426,0.143,1.6,2.6,S11 S40 S49 P04 P05 P06 P09 M12
+dense|fixed|minilm,dense,fixed,minilm,0.5303,0.8485,0.9242,0.6654,0.8298,0.8,0.8333,1383,0.138,10.2,13.9,S16 S28 S29 S30 S32 S44 S46 S49 P04 P09
+hybrid|fixed|minilm,hybrid,fixed,minilm,0.6364,0.9242,0.9697,0.7598,0.9362,0.8,0.8333,1425,0.142,11.1,13.1,S11 S40 S44 P04 P09
+dense|fixed|bge-small,dense,fixed,bge-small,0.5455,0.9091,0.9545,0.6962,0.9149,0.8,0.7778,1412,0.141,18.8,24.9,S16 S30 S44 S49 P03 P09
+hybrid|fixed|bge-small,hybrid,fixed,bge-small,0.6364,0.9242,0.9848,0.7579,0.9362,0.8,0.8333,1423,0.142,20.4,24.6,S11 S44 S49 P04 P09
+bm25|heading|-,bm25,heading,-,0.6667,0.9242,0.9394,0.7825,0.9574,0.7,0.8889,1668,0.167,0.5,0.7,S11 S49 P04 P06 P09
+dense|heading|minilm,dense,heading,minilm,0.7424,0.8939,0.9545,0.8114,0.8936,0.8,0.9444,1540,0.154,9.9,12.4,S07 S16 S28 S30 S44 P04 P09
+hybrid|heading|minilm,hybrid,heading,minilm,0.7273,0.9394,0.9697,0.8167,0.9574,0.8,1.0,1668,0.167,10.9,13.2,S07 S44 P04 P06
+dense|heading|bge-small,dense,heading,bge-small,0.6818,0.9091,0.9697,0.7776,0.9149,0.9,0.8889,1612,0.161,19.3,23.1,S07 S16 S30 S44 P03 M12
+hybrid|heading|bge-small,hybrid,heading,bge-small,0.7121,0.9091,0.9697,0.8105,0.9362,0.7,0.8889,1723,0.172,20.4,23.7,S11 S16 S44 P04 P06 P09
+bm25|sentence|-,bm25,sentence,-,0.4848,0.7121,0.7576,0.5794,0.7872,0.3,0.5556,267,0.027,2.3,3.5,S05 S11 S13 S17 S24 S26 S28 S31 S37 S49 P02 P03 P04 P05 P06 P07 P09 M12 M13
+dense|sentence|minilm,dense,sentence,minilm,0.4697,0.8182,0.8636,0.6094,0.8936,0.5,0.5556,261,0.026,120.8,129.8,S08 S24 S26 S31 S37 P02 P03 P04 P08 P09 M12 M13
+hybrid|sentence|minilm,hybrid,sentence,minilm,0.5606,0.7273,0.7879,0.6427,0.8298,0.2,0.5556,270,0.027,124.9,131.0,S11 S13 S17 S24 S26 S28 S31 S37 P02 P03 P04 P05 P06 P07 P08 P09 M12 M13
+dense|sentence|bge-small,dense,sentence,bge-small,0.5758,0.8485,0.8636,0.7013,0.8723,0.8,0.5,268,0.027,129.8,138.7,S17 S24 S26 S28 S31 S37 P03 P04 M12 M13
+hybrid|sentence|bge-small,hybrid,sentence,bge-small,0.5455,0.7576,0.8182,0.6535,0.8298,0.4,0.5556,272,0.027,131.2,137.1,S11 S13 S17 S24 S26 S28 S31 S37 P03 P04 P05 P06 P07 P09 M12 M13

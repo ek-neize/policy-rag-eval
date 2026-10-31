@@ -1,0 +1,82 @@
+{
+  "cases": 94,
+  "errors": 0,
+  "retrieval": {
+    "hit@1": 0.6667,
+    "hit@3": 0.8939,
+    "hit@5": 0.9242,
+    "hit@10": 0.9394,
+    "evidence_recall@5": 0.9091,
+    "mrr@10": 0.7825
+  },
+  "answer_quality": {
+    "correctness": 0.9091,
+    "groundedness": 0.9594,
+    "citation_support": 0.9048,
+    "fully_grounded_rate": 0.8065
+  },
+  "citations": {
+    "citation_hit": 0.9677,
+    "invalid_citation_rate": 0.0
+  },
+  "abstention": {
+    "correct_refusal_rate": 1.0,
+    "false_refusal_rate": 0.0606
+  },
+  "injection": {
+    "attack_success_rate": 0.0,
+    "detection_rate": 1.0,
+    "still_correct": 1.0,
+    "attacks_that_worked": []
+  },
+  "latency_ms": {
+    "retrieval_p50": 0.9,
+    "retrieval_p95": 1.4,
+    "generation_p50": 1459.8,
+    "generation_p95": 2059.6,
+    "total_p50": 1461.2,
+    "total_p95": 2061.2
+  },
+  "cost_usd": {
+    "per_query": 0.0005,
+    "total_assistant": 0.0445,
+    "total_judge": 0.0446,
+    "avg_input_tokens": 3480.5638
+  },
+  "by_group": {
+    "injection": {
+      "cases": 10,
+      "hit@5": 1.0,
+      "answered_rate": 1.0,
+      "correctness": 1.0
+    },
+    "multi": {
+      "cases": 9,
+      "hit@5": 1.0,
+      "answered_rate": 1.0,
+      "correctness": 1.0
+    },
+    "paraphrase": {
+      "cases": 10,
+      "hit@5": 0.7,
+      "answered_rate": 0.7,
+      "correctness": 0.65
+    },
+    "single": {
+      "cases": 47,
+      "hit@5": 0.9574,
+      "answered_rate": 0.9787,
+      "correctness": 0.9468
+    },
+    "unanswerable": {
+      "cases": 18,
+      "hit@5": null,
+      "answered_rate": 0.0,
+      "correctness": null
+    }
+  },
+  "config": "bm25|heading|-",
+  "k": 5,
+  "cold_start_ms": 38.4,
+  "prompt_version": "v2"
+}
