@@ -1,0 +1,1688 @@
+id,group,question,reference_answer,answer,passages,human_correctness,human_fully_supported,human_notes
+M03,multi,"If I want to check my credit report for free online, which companies can I use, and will the bureau I choose only have information about my credit activity within Canada?","You can access your credit report online for free from Equifax or TransUnion, the two main credit bureaus in Canada. Both of these bureaus only collect information about your credit activity in Canada, so their reports will not include credit activity from other countries.","You can access your credit report online for free from Canada's 2 main credit bureaus, Equifax and TransUnion [S1]. Yes, both bureaus only collect information about your credit activity in Canada [S2]. Note that some lenders may look at credit history from another country, in which case you may need to provide a credit report from that country [S2].","[S1] Getting your credit report and credit score — Introduction
+Learn how to get your credit report and credit score from Canada’s 2 main credit bureaus. Checking your credit report or score won’t affect your credit rating.
+### Get your credit report online
+Your credit report is a summary of how you’ve used credit in the past.
+Learn more about your credit report and how it works.
+You can access your credit report online for free from Canada’s 2 main credit bureaus:
+- Equifax
+- TransUnion
+Both credit bureaus allow you to:
+- download or print your credit report
+- see information updated every month
+Access your free Equifax credit report.
+Access your free TransUnion credit report (called Consumer Disclosure).
+Other companies may also offer free credit reports.
+
+[S2] Credit report and score basics — Who creates your credit report and score
+In Canada, there are 2 main credit bureaus:
+- Equifax
+- TransUnion
+They track your credit history and create your credit report and score. They also collect, store and share your credit information with lenders and others who are allowed to see it. They only collect information about your credit activity in Canada.
+Some lenders may look at your credit history from another country. You may need to provide your credit report from another country and meet with a bank officer.
+
+[S3] Credit report and score basics — Who can see and use your credit report
+Credit bureaus follow rules about who can see your credit report.
+Those who may request to see your credit report include:
+- banks, credit unions and other financial institutions
+- credit card companies
+- car-leasing companies
+- phone and internet providers
+- utility companies
+- insurance companies
+- governments
+- employers
+- landlords
+They may use your credit report to make decisions about:
+- lending you money
+- calculating your interest rate
+- increasing your credit limit
+- collecting a debt
+- providing insurance
+- renting you housing
+- hiring you for a job
+Checking your own credit report or score doesn’t affect your credit score.
+When a lender or organization “checks your credit” or “pulls your report,” it creates an inquiry on your credit report.
+Learn more about credit inquiries.
+### Consent and credit inquiries
+In most provinces in Canada, you must give consent before a business or individual can check your credit.
+When you sign a credit application, you consent to this. This consent usually lasts for as long as you keep the account open. Your consent also lets lenders send your information to credit bureaus after they approve your application. However, in these 3 provinces, a business or individual only needs to tell you they’re checking your credit report:
+- Nova Scotia
+- Prince Edward Island
+- Saskatchewan
+In some cases, certain government representatives, such as judges or police, can see your credit report without your consent.
+Contact your provincial or territorial consumer affairs office to learn more about credit reporting laws.
+### Related link
+- Canadian Anti-Fraud Centre
+
+[S4] Getting your credit report and credit score — Get your credit score
+Your credit score is a number that shows how likely you are to repay a loan. It also shows how you manage credit. It comes from the information on your credit report.
+Learn more about your credit score and how it’s used.
+Credit bureaus update your credit score at least once per month. You may access your credit score online from Canada’s 2 main credit bureaus:
+- Equifax: free in all provinces and territories
+- TransUnion: free if you live in Quebec or Ontario (as part of your Consumer Disclosure)
+Access your Equifax credit score.
+Access your TransUnion credit score.
+You may also request a non-electronic credit score from Equifax for free (for example, by phone or by mail). If you live in Quebec or Ontario, you may also request it from TransUnion. You’ll need to provide required identification documents.
+Other companies may also offer your credit score for free. Some may ask you to sign up for a paid service to get your score.
+Some Federally Regulated Financial Institutions may also provide free credit scores through their banking app.
+
+[S5] Checking your credit report for errors and fraud — Fixing errors on your credit report
+You have the right to dispute any information on your credit report that you believe is wrong. Credit bureaus must correct errors for free.
+### Gather your documents
+Collect any receipts, statements and other documents that prove there’s a mistake.
+### Contact Canada’s 2 main credit bureaus
+Use the forms from Equifax and TransUnion to report the error.
+The credit bureaus will examine your claim with the lender or organization that reported the information. If they agree that there’s an error, the credit bureaus will correct the information. If the lender or organization says that the information is correct, the credit bureau will keep it on your report.
+In some provinces, credit bureaus must send a copy of your revised credit report to organizations who recently requested it.
+Learn how to dispute information with Equifax.
+Learn how to dispute information with TransUnion.
+### Contact the lender
+You may be able to speed up the process by contacting the lender directly. Ask them to verify their files and provide the updated information to the credit bureaus.
+### Escalate your case
+If you’re not satisfied with the results of the investigation, ask to speak with someone at a higher level.
+Federally regulated financial institutions must have a complaint procedure to help resolve disputes with their customers. This includes access to an external complaints body.
+Learn how to file a complaint with your bank.
+### Add a consumer statement
+If you’re not satisfied with the results of the investigation, you may add a brief statement to your credit report. This explains your situation and is called a consumer statement. It's free to add a consumer statement to your credit report.
+The credit bureaus set the number of words allowed in your statement. This may vary depending on your province.
+Lenders and others who review your credit report may consider your consumer statement when they make their decisions about your credit.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: all claims in S1/S2, including the foreign credit history note"
+M04,multi,"If I open a joint credit card with another person at a federally regulated bank, what does each of us owe on the balance, and do we both have to receive copies of the credit agreement and statements?","Co-borrowers are equally responsible for the credit card balance and both have access to the account. Because the bank is federally regulated, all joint borrowers must be given copies of the credit agreement and statements, unless a borrower gives up that right by consenting verbally or in writing.",Co-borrowers on a joint credit card are equally responsible for the balance [S2]. Federally regulated financial institutions must give all joint borrowers copies of the credit agreement and statements [S1]. You may give up the right to receive this information by providing consent verbally or in writing [S1].,"[S1] Getting a credit card: know your rights — Your rights as a joint borrower on a credit card
+You may have a credit card as a co-borrower or joint borrower. Before you co-sign for a credit card with another person, you must understand what you’ll be responsible for.
+If you co-sign for a credit card with one person or more, you are joint borrowers. Federally regulated financial institutions must give all of you copies of the credit agreement and statements. You may give up the right to receive this information by providing consent verbally or in writing (paper or electronic format).
+Learn more about your right to information when you’re a joint borrower.
+You may have a credit card as an additional cardholder or authorized user.
+Learn more about additional cardholders and authorized users.
+
+[S2] Joint credit cards — Co-borrowers or co-applicants
+Some credit card issuers will allow you and another person to apply for a credit card together. Co-applicants are co-borrowers in credit card agreements. Co-borrowers have access to the credit card account and are equally responsible for the balance.
+You may be dealing with a federally regulated financial institution such as a bank. In that case, as a co-borrower you must receive certain disclosure information about the account.
+Learn more about your rights as a joint borrower.
+
+[S3] Opening a personal bank account: your rights — Receiving information when opening a joint bank account
+Joint bank accounts are also known as joint deposit accounts.
+Some banks are members of the Canadian Bankers Association (CBA). These banks have signed a commitment to share information with consumers who open joint bank accounts.
+Banks make this information available in their branches and on their websites.
+This applies if you:
+- open a new personal account with another person or persons
+- convert a personal bank account under 1 name to an account that more than 1 person holds jointly
+The commitment sets out the information banks make available to consumers. Banks agree to provide the information in a language and manner that is clear, simple and not misleading.
+Banks will also make the commitment available:
+- at each branch in Canada where they offer products or services
+- at each of their points of service
+- on each of their websites through which they offer products or services in Canada
+Learn more about CBA's Commitment on Powers of Attorney and Joint Deposit Accounts.
+You may be dealing with a financial institution that isn’t a bank that signed a commitment to share information with consumers who open joint bank accounts. In that case, check your account agreement or ask them for details about joint bank accounts.
+Learn more about joint accounts.
+
+[S4] Getting a credit card: know your rights — Your right to information when getting a credit card
+Federally regulated financial institutions must follow certain rules regarding your credit card agreement. This makes it easier for you to understand the terms and conditions.
+This applies when:
+- you apply for a credit card
+- you get your credit card
+- you receive your credit card statement
+- your credit card agreement changes
+### Information when applying for a credit card
+When you apply for a credit card with a federally regulated financial institution, they must provide you with information.
+They must clearly set out the key features of the credit card in an information box. This box must be at the beginning of:
+- the application form, or
+- a separate document that comes with it
+This includes information such as the card’s interest rates and other charges such as annual fees.
+See an example of an information box for a credit card application form.
+Banks must disclose this information in a single prominently displayed information box.
+When you apply for a credit card, you agree to accept all the terms and conditions. This includes interest rates and fees. Ask questions if anything is unclear or if you’re not sure about what you’re signing.
+### Information with your credit card
+When you receive your credit card, it must have a credit card agreement with it. Read the agreement carefully to understand your responsibilities and the terms and conditions of the card. Keep the agreement for your records. If there’s something you don’t understand, contact your financial institution.
+Like the credit card application, your credit card agreement must have an information box that clearly outlines key information.
+This information box may be at the beginning of:
+- the agreement, or
+- a separate document that you receive at the same time as the agreement
+Banks must present this information in a single prominently displayed information box.
+### Information in your credit card statement
+
+[S5] Getting a credit card: know your rights — Your right to information when getting a credit card
+Your federally regulated financial institution may make changes to the features or the terms and conditions of your credit card. If so, they must provide you with the details of these changes in writing. They must do so at least 30 days before the changes take effect. The information may be in paper or electronic format (if you consent to receive information this way).
+Your federally regulated financial institution must also get your express consent before raising your credit limit. If you agree verbally to an increase, they must confirm the change in writing. They must do so no later than when you receive your next credit card statement.
+#### Exceptions to advance notice when your credit agreement changes
+Some changes don’t require advance notice. Your federally regulated financial institution must disclose them in the next statement you receive after the changes.
+These are:
+- a decrease in the credit limit
+- an extension of your grace period
+- a decrease in the interest rate
+- a decrease in non-interest charges or default charges
+- a change concerning information about any optional service
+- a change in the base rate linked to the variable interest rate (also known as the reference rate). This is if you have a card with a variable interest rate",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: omits 'both have access to the account' from the reference; minor, key facts present"
+M10,multi,"If I want to move my chequing account to a new bank, should I close my old account right away, and what should I check before doing so?","Keep your old account open during the transfer, since the institution may move your automatic payments such as pre-authorized debits to the new account. Before closing the old account, make sure you have a list of your automated transactions, your new account details, enough time to transfer direct deposits and pre-authorized debits, and enough money to cover payments during the switch.","No, you shouldn't close your old account right away. Keep it open for several months and make sure there's enough money to cover payments [S1]. Before closing it, make sure you have a list of your automated transactions, your new account details, enough time to transfer your direct deposits and pre-authorized debits, and enough money in your accounts to cover payments during the switch [S2]. Once you've confirmed the new account works and all transactions are complete, ask your current institution to close the old account, which may carry a closing fee [S1]. Before closing, review both accounts to confirm you can access the new account, received your new debit card if applicable, changed your direct deposits, and cancelled or transferred all pre-authorized debits [S2].","[S1] Transferring your financial products and services to another financial institution — Transferring your chequing and savings accounts
+- requested stop payments for any cheques you wrote
+### Tip
+Don’t close your old accounts too soon.
+You may want to keep them open for several months and make sure there’s enough money to cover payments.
+### Close your accounts
+Once you’re sure all transactions are complete, ask your current financial institution to close your old accounts.
+You may have to pay a closing fee. Check the terms and conditions of your account agreement for more information.
+
+[S2] Transferring your financial products and services to another financial institution — Transferring your chequing and savings accounts
+You may transfer deposit accounts like your chequing and savings accounts.
+Before you close your current accounts, make sure you have:
+- a list of your automated transactions
+- your new account details
+- enough time to transfer your direct deposits and pre-authorized debits
+- enough money in your accounts to cover payments during the switch
+### Identify your automated transactions
+To find your automated transactions, you may:
+- check your transactions over the last few months or the past year to find pre-authorized debits
+- identify all direct deposits, including income from work, pension and benefits
+- review your bills and budget so you don’t miss any payments
+### Open a new account
+If you meet certain conditions, banks, federal credit unions and authorized foreign banks must open a deposit account for you.
+Review the terms and conditions and ask questions. Keep a copy of your account agreements.
+Learn more about opening a bank account.
+### Transfer your money
+You may transfer your money from your current accounts to your new accounts.
+Most financial institutions may help with transfers through:
+- wire transfers
+- Interac e-Transfers®
+- linked accounts
+- electronic funds transfers
+- bank drafts
+Ask your financial institution which option is best for moving money into your new chequing and savings accounts.
+### Update your direct deposits and pre-authorized debits
+Give your creditors and service providers your new banking information.
+### Tip
+Before payments start coming out of your new account, make sure there’s enough money in it to cover them. This may help you avoid missed payments and fees.
+Ask if your financial institution can transfer your pre-authorized debits for you. If not, you’ll need to set them up on the new account and cancel them on the old account.
+Learn more about requesting a stop payment.
+### Review your accounts after the transfer
+Review both accounts before closing the old one.
+Make sure you:
+- can access your new chequing and savings accounts
+- received your new debit card, if applicable
+- changed your direct deposits
+- cancelled or transferred all pre-authorized debits
+
+[S3] Opening a bank account — Transferring your account to another bank
+If you already have a bank account, you may choose to move it to another financial institution. For example, if they offer a product that better suits your needs. Review your bank account and the services included from time to time.
+Most financial institutions have a process to help you transfer your account. They may arrange to move your automatic payments, like pre-authorized debits, to your new account. Keep your old account open during the transfer.
+Learn more about pre-authorized debits (PAD).
+Check statements from both institutions until you confirm:
+- the new account is working properly
+- you’re not making the same payments twice
+Help prevent fraud. Cut up old debit cards and cheques.
+Learn more about transferring your financial products and services to another financial institution.
+
+[S4] Transferring your financial products and services to another financial institution — Transferring your credit card
+You may cancel your credit card and get a new one with another financial institution. You must qualify for the new card. You may also be able to transfer your current credit card balance to it.
+Before you cancel your current credit card, make sure you:
+- qualify for the new card
+- know all your automated transactions on your old card
+- have a plan to pay the balance
+- understand the terms and conditions of the new card
+### Apply for a new credit card
+Before you complete a credit card application, read the terms and conditions. When the card arrives, you’ll need to activate it before you use it.
+Learn more about applying for a credit card.
+### Identify your automated transactions
+Review your statements to identify automated transactions tied to the current card.
+### Review your credit card balance
+Review your balance and decide how you’ll pay it. You may be able to transfer the balance to a new card through a balance transfer.
+You usually need to pay a fee to transfer a balance from one credit card to another. The transaction may take several weeks to appear in your account.
+Learn how credit cards work.
+### Set up your automated transactions
+Set up all the automated transactions you identified on your new card. This includes pre-authorized payments and recurring transactions.
+### Monitor your credit card accounts
+Before you cancel your old credit card, transfer or stop all your automated transactions. This includes any pre-authorized payments.
+Some charges may still go on your credit card even after you cancel it.
+### Cancel your credit card
+Contact your financial institution to cancel the old credit card. Cutting up the card doesn’t cancel it.
+Check both credit card accounts until all automated transactions are transferred. Make sure you’ve settled the old account.
+Learn more about cancelling your credit card.
+
+[S5] Transferring your financial products and services to another financial institution — Introduction
+Learn more about the Canadian Deposit Insurance Corporation.
+A provincial or territorial deposit insurance provider may protect deposits at other financial institutions.
+If your province or territory regulates your financial institution, you can contact the deposit insurance provider. They may tell you what happens if the institution fails.
+Find your provincial or territorial regulator.
+Learn more about deposit insurance in Canada.
+### Review what you have now
+Before you transfer your products or services to a new financial institution, there are things to consider. Make a list of all your products and services with your current financial institution, including automated transactions.
+You may need to review:
+- your online banking app or website
+- a list of your products and services (provided by your financial institution)
+- your monthly statements
+- older documents from your financial institution
+- your credit reports from Equifax and TransUnion
+This may also help you find:
+- what you need to transfer, close, cancel or stop
+- which products and services you use or don’t use
+- which products and services you want
+- if you have inactive accounts
+Learn more about getting your credit report and credit score.
+### Identify your banking needs
+Financial institutions offer many types of products and services.
+Before you sign up for new products or services:
+- think about how you’ll use them
+- check the fees, if any
+- evaluate the benefits, including lower fees and convenience, if any
+- decide if you want all your products and services at the same financial institution
+### Tip
+Take time to compare what financial institutions offer to find what best suits your needs.
+Make sure you understand the terms and conditions of the products the financial institution offers.
+Learn how to choose financial products and services that are right for you.
+### Check how your financial institution is regulated
+Your rights and consumer protections depend on who regulates your financial institution.
+For example, the federal government regulates some institutions. Provinces and territories regulate others.
+Find out if your financial institution is federally regulated.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: every step traced to S1/S2; 'confirmed the new account works' paraphrases S3/S1"
+P08,paraphrase,"I owe $2,000 on my credit card at 18% and only send the smallest amount each month. How long until it's gone and how much extra will I end up handing over?","Paying only the minimum (a $60 monthly payment) on a $2,000 balance at 18% takes 3 years and 11 months to pay off, with $793 in interest paid and a total of $2,793 paid.","If you owe $2,000 at 18% and pay only the minimum (modelled at $60 per month), it will take 3 years and 11 months to pay off the balance, with $793 in interest and a total of $2,793 paid [S1]. That means about $793 extra on top of the $2,000 you owe. Paying the minimum plus $100 each month ($160 total) would cut the time to 1 year and 2 months and the interest to $231 [S1]. Your actual minimum may differ, since your credit agreement sets how your issuer calculates it [S1].","[S1] Paying off your credit card — Making at least the minimum payment
+Make at least the minimum payment if you can’t pay off your balance. The minimum payment is the minimum amount you must pay each month on your credit card balance.
+Your minimum payment will be:
+- a flat dollar amount, usually $10, plus any interest and fees, or
+- the higher of a dollar amount, typically $10, or a percentage of your outstanding balance, typically 3%
+Your credit agreement will tell you which method your credit card issuer uses to calculate your minimum payment.
+Paying only the minimum amount means:
+- it takes you longer to pay off your balance
+- you pay more interest
+Increasing your monthly payment will shorten the time it will take you to pay off your balance. Even a small amount will shorten the time by a lot.
+Since August 1st, 2025, the credit card minimum payment for Quebec residents is 5%.
+Table 1: Cost and time to pay off your credit card when you make only the minimum payment and when you increase your monthly payment Payment scenarios | Starting balance | Payment amount | Interest rate | Time required to pay off balance | Interest paid | Total amount paid |
+Scenario 1: You pay only the minimum each month | $2,000 | $60 | 18% | 3 years, 11 months | $793 | $2,793 |
+Scenario 2: You pay the minimum plus $100 each month | $2,000 | $160 | 18% | 1 year, 2 months | $231 | $2,231 |
+Use the Credit Card Payment Calculator to compare your payment options.
+Your credit card issuer may be a federally regulated financial institution. In that case, your credit card statements must include the time required to pay off your balance by only paying the minimum amount.
+Learn more about the information your financial institution must give you about your credit card.
+
+[S2] Getting a credit card: know your rights — Your right to information when getting a credit card
+Once you have your credit card, your issuer must send you a statement, at least once a month. They must send it after the last day of each billing cycle. It may be in paper or electronic format (if you consent to receive information this way).
+The statement includes information such as:
+- the period covered and the opening and closing balances in the period
+- the annual interest rate that applied on each day in the period and the total interest charged under those rates in the period
+- the credit limit and the amount of credit available at the end of the period
+- the minimum payment and its due date
+- your rights and obligations regarding any billing error that may appear in the statement of account
+- a local or toll-free telephone number, or a telephone number that clearly indicates it accepts collect calls. This is so you can get information about the account during the bank’s regular business hours.
+- the amount you must pay by a due date to get the interest-free grace period
+- a description of each transaction made during the period covered by the statement, and the amount credited or charged
+- the date they posted each transaction to your account
+#### Exceptions:
+You may not get a monthly statement if there haven’t been any advances or payments and:
+- there’s no unpaid balance at the end of the period, or
+- you’ve defaulted on your payments, and they suspended or cancelled your credit agreement and demanded payment of the unpaid balance
+You might only get a statement every 3 months if:
+- there haven’t been any advances or payments
+- the unpaid balance is less than $10
+- no fee or interest is being charged or accumulated
+### Information when your credit agreement changes
+
+[S3] Using your credit card responsibly — Tips when using your credit card
+When you use your credit card, you’re borrowing money that you have to pay back. A credit card doesn’t increase the amount of money you have. Your credit card spending should fit within your regular household budget.
+If you don't use your credit card wisely, you may end up:
+- building up debt
+- paying interest
+- hurting your credit score
+### Aim to pay off your balance every month
+The money you owe on your credit card is your balance. Try to pay it off by the due date each month. If you don't pay your balance by the due date, you'll pay interest from the date you made the purchase. The interest you pay will increase the cost of everything you buy with your credit card.
+Paying your balance each month shows lenders that you’re a responsible borrower. Regularly making late payments or missing payments will hurt your credit score.
+### Pay at least the minimum amount
+If you can’t pay your balance, always aim to pay at least the minimum amount you owe.
+If you don't pay at least the minimum amount, you risk:
+- your interest rate increasing
+- negatively affecting your credit score
+- losing the benefit of any promotional rate offer you have
+- your financial institution cancelling your credit card
+- your card provider cancelling your credit card balance insurance
+### Regularly check your statement for errors
+Carefully review your monthly credit card statement to make sure that there are no errors.
+When you check your credit card statement online, purchases will usually appear after a few days. Keep receipts of all your credit card purchases so you can check the amounts against your statement.
+If you find an error, report it right away. Contact the financial institution that issued the credit card.
+### Get electronic alerts from your financial institution
+Your financial institution may send you an electronic alert when the credit available on your credit card falls below a certain amount.
+These alerts may help you manage your day-to-day finances and avoid fees.
+Learn more about these electronic alerts.
+
+[S4] How credit cards work — Credit limit
+Your credit limit is the maximum amount you may spend on your credit card. Credit card issuers set your limit when you first get your credit card. You may ask them to reduce or increase it.
+Your credit card issuer must get your permission in writing or verbally before increasing your credit limit. When you do so, you give your express consent. If you give your express consent, your credit card issuer must confirm the change in writing. They must do so no later than your next credit card statement.
+Learn more about giving express consent for financial products and services.
+### Over-the-limit fees
+It’s your responsibility to monitor your balance and stay within your limit. If you go over your limit, you may have to pay an over-the-limit fee.
+Federally regulated financial institutions can’t charge over-the-limit fees in certain situations. For example, if a merchant puts a temporary hold on your credit card that goes over the credit limit.
+Suppose you have $90 left until you reach your credit limit. You buy gas with your credit card. The gas retailer places a $100 temporary hold on your card until you finish filling up. It costs you $20 to fill up. In this case, the financial institution can’t charge an over-the-limit fee.
+If you’re often close to your credit card limit, ask your financial institution to increase your credit card limit. You may also ask your financial institution to stop any transactions that will go over the limit. Certain low-value transactions may still go through. Not all financial institutions offer this service.
+Read the terms of your credit card agreement to see if transactions over your limit will go through. See if there are any fees if they do. Ask your financial institution about anything you don’t understand.
+#### Getting electronic alerts from your financial institution
+Your financial institution may send you an electronic alert when the credit available on your credit card falls below a certain amount.
+These alerts may help you manage your day-to-day finances and avoid fees.
+Learn more about these electronic alerts.
+
+[S5] Choosing a credit card — Comparing credit card interest rates
+Some credit card issuers offer cards with low interest rates for a limited time. Generally, the low interest rate will apply for a limited time, usually 6 to 12 months. The rate will increase once the introductory period ends. Consider the following after the introductory period ends:
+- if you can afford a higher interest rate
+- if the card still suits your needs
+In some cases, the introductory rate ends as soon as you go over your credit limit or make a late payment.
+Federally regulated credit card issuers must give you the following key details about introductory rates:
+- the date at which the low interest rate ends
+- the types of transactions the introductory rate covers
+- the other fees or conditions that apply
+- the standard interest rate you’ll pay after the low interest rate period ends
+Before you sign up for an introductory low-rate or interest-free credit card, read the application and credit agreement carefully.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: numbers match Table 1 exactly; scenario 2 figures also correct"
+S03,single,"What is the maximum percentage of my property's value I can borrow with a reverse mortgage, and what is the usual minimum age to qualify?",You can borrow up to 55% of your property's value with a reverse mortgage. You usually need to be 55 years of age or older to qualify.,"With a reverse mortgage, you may borrow up to 55% of your property's value, and you usually need to be 55 years of age or older to qualify [S1]. Reverse mortgages let you borrow based on the equity in your property, and you don't need to sell the property or make payments until the loan is due [S1].","[S1] Choosing financial products and services that are right for you — Borrowing money for expenses or emergencies
+### Student lines of credit
+You may use a student line of credit for post-secondary education.
+You may also use it for basic expenses, like:
+- tuition
+- books
+- housing
+Learn more about student lines of credit.
+### Reverse mortgages
+A reverse mortgage lets you borrow based on the equity in your property. You may borrow up to 55% of your property’s value. You usually need to be 55 years of age or older to qualify.
+You don’t need to sell your property. You don’t need to make payments until the loan is due.
+A reverse mortgage may help you pay for your expenses. However, interest costs build up over time.
+The interest is usually higher than for a home equity line of credit (HELOC) or a mortgage.
+You repay the loan and accumulated interest when:
+- you move out of your property
+- you sell your property
+- the last borrower dies
+Learn more about reverse mortgages.
+
+[S2] Choosing financial products and services that are right for you — Borrowing money to buy a property
+When you buy a property, you usually pay part of the purchase price up front. This is your down payment. You usually need a loan from a lender to cover the rest.
+### Mortgages
+A mortgage is a loan to help pay for your property. It’s a legal contract between you and your lender. It’s secured by a property, like a house or condo.
+With a mortgage, you:
+- need to make a down payment
+- borrow a large amount, often several hundred thousand dollars
+- secure the loan with a property
+- usually need to renew your contract several times before you pay the full balance
+You may also:
+- need to pass a stress test to know if you can pay a higher interest rate
+- owe a balance at the end of your term
+- pay a penalty if you break your contract
+Learn more about choosing a mortgage that’s right for you.
+
+[S3] Getting preapproved for a mortgage — What is a mortgage preapproval
+When you’re shopping for a mortgage, you can compare options offered by different lenders.
+Mortgage lenders have a process which may allow you to:
+- know the maximum amount of a mortgage you could qualify for
+- estimate your mortgage payments
+- lock in an interest rate for 60 to 130 days, depending on the lender
+The mortgage preapproval process may be divided in various steps. It may also be called mortgage prequalification or mortgage preauthorization. Different lenders have different definitions and criteria for each step they offer.
+During this process, the lender looks at your finances to find out the maximum amount they may lend you and at what interest rate. They ask for your personal information, various documents and they likely run a credit check.
+This process does not guarantee your approval for a mortgage.
+Find out if you qualify for a mortgage.
+
+[S4] Choosing a mortgage that is right for you — What to consider when getting a mortgage
+- purchasing a new build
+- 25 years in all other cases
+If your down payment is more than 20% of your home’s price, your lender sets your maximum amortization period.
+Learn more about mortgage terms and amortization.
+### Interest rate
+Lenders use the interest rate to calculate the fees they charge you to borrow money. With a higher interest rate, you pay higher interest fees.
+Every time you renew your mortgage term, you renegotiate your mortgage interest rate. This means your mortgage payments may be higher or lower in the future.
+When you apply for a mortgage, your lender offers you an interest rate. You may be able to negotiate a lower rate with your lender.
+The interest rate your lender offers you may depend on:
+- the length of your mortgage term
+- the type of interest you choose
+- the current posted interest rate offered by your lender
+- your credit history
+- if you’re self-employed
+- if you qualify for a discounted interest rate
+- the type of lender you choose like a bank, credit union, financing company or mortgage investment company
+- ·the specific lender
+Before you commit to a lender, shop around to get the best rate. This could save you thousands of dollars.
+Learn more about mortgage interest rates.
+### Types of interest
+When you apply for a mortgage, your lender may offer different interest options.
+#### Fixed interest rate
+A fixed interest rate stays the same for the entire term. It’s usually higher than a variable interest rate for a similar term. With a fixed interest rate, your payments stay the same for the entire term.
+#### Variable interest rate
+A variable interest rate may increase and decrease during the term. Typically, a variable interest rate is lower than a fixed interest rate for a similar term. With a variable interest rate, you may keep your payments the same for the duration of your term.
+Lenders call this a fixed payment with a variable interest rate.
+
+[S5] Getting preapproved for a mortgage — What to consider during the pre-approval process
+The preapproval amount is the maximum you may get for a mortgage. It doesn’t guarantee that you’ll get a mortgage for that amount.
+The approved mortgage amount will depend on the value of the property and the amount of your down payment. You can also look at properties in a lower price range so that you don’t stretch your budget to its limit.
+Remember that you also need money for:
+- closing costs
+- moving costs
+- ongoing maintenance costs
+Find out more about the costs of buying a home.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S04,single,"If my bank goes under, do I have to file a claim with CDIC to get my deposits back?","No. You don't need to file a claim if your institution fails, because CDIC pays you automatically. You also don't need to apply for coverage or pay for it.","No. You don't need to file a claim if your institution fails, because CDIC pays you automatically [S1]. CDIC coverage is also free and automatic, so you don't need to sign up [S4]. CDIC covers eligible deposits up to $100,000 separately [S2].","[S1] Deposit insurance in Canada — Understanding deposit insurance
+Deposit insurance protects your deposits if your financial institution fails.
+The Canada Deposit Insurance Corporation (CDIC) covers eligible deposits at member institutions. You don’t need to apply or pay for this.
+You don’t need to file a claim if your institution fails. CDIC pays you automatically.
+Check if your financial institution is a member of the Canada Deposit Insurance Corporation website.
+
+[S2] Deposit insurance in Canada — Checking what the Canada Deposit Insurance Corporation covers
+CDIC covers eligible deposits separately for up to $100,000, including:
+- savings and chequing accounts
+- Guaranteed Investment Certificates (GICs) and other term deposits
+- foreign currency, like US dollars
+CDIC doesn’t cover:
+- mutual funds
+- stocks
+- bonds
+- Exchange Traded Funds (ETFs)
+- cryptocurrencies
+- losses due to fraud or theft
+### Tip
+Use CDIC tools to check what’s covered and what isn’t.
+Learn more about what's covered by the CDIC.
+
+[S3] Deposit insurance in Canada — Introduction
+Learn about deposit insurance and how it protects your deposits if your financial institution fails. Learn what the Canada Deposit Insurance Corporation (CDIC) covers at member institutions. Learn what your province covers for provincially regulated financial institutions.
+
+[S4] Transferring your financial products and services to another financial institution — Introduction
+Learn more about transferring your financial products and services to another financial institution. Follow steps to transfer accounts, credit cards, loans and lines of credit, mortgages and registered products.
+### Planning a product or service transfer
+Moving products or services to another financial institution involves many steps and may take time. You may need to open the new product first and cancel the old one later.
+Leave enough time to:
+- transfer money
+- receive any new cards
+- update payments
+### Tip
+Plan before you start the transfer.
+Keep track of your accounts and services during the process. This will help you avoid overdraft fees, missed payments and non-sufficient funds (NSF) fees.
+Before transferring a financial product or service to another financial institution, ask whether any fees apply.
+These may include:
+- account transfer fees
+- administrative fees related to moving products or services
+Understanding these costs before you begin the transfer process can help you make an informed decision.
+### Know why you may want to transfer a product or service
+There are many reasons why you may want to transfer your products or services to another financial institution.
+Examples include:
+- to save on fees or interest charges
+- to earn more interest
+- to get products or services that better fit your needs
+- you’re unhappy with the service at your current institution
+- your financial institution is closing the branch where you hold your products and services
+- another financial institution acquired yours
+You may have to transfer your products and services if your financial institution fails. This is very rare in Canada, but it’s possible.
+### Know what to do if your financial institution fails
+If your financial institution fails, deposit insurance protects your eligible deposits.
+The Canada Deposit Insurance Corporation (CDIC) protects eligible deposits at each of its member institutions. CDIC coverage is free and automatic. You don’t need to sign up.
+If a CDIC member institution fails, CDIC will contact you. CDIC will reimburse insured deposits based on the records of the failed member institution.
+
+[S5] Choosing a financial institution — Checking what protections apply to you
+If your financial institution isn’t federally regulated, your province or territory may protect your deposits. Coverage and limits vary across Canada.
+### Tip
+Check what’s protected by contacting your financial institution or deposit insurer.
+Learn more about what's covered by the CDIC.
+Learn more about deposit insurance.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S05,single,"Do I have to download an app to see my accounts on my phone, or is there another way?",You do not have to download an app. A mobile banking site lets you access your accounts through a web browser on your mobile device without downloading an app.,"No, you don't have to download an app. You can access your accounts on your mobile device through a mobile banking site, which works through a web browser and does not require downloading an app [S1]. Mobile banking sites may give you a more detailed view of your accounts and may offer more services than an app [S1]. Using your financial institution's online banking site in a web browser is also listed as an option [S2].","[S1] Online banking — Using online banking
+To access your accounts using an app, you must:
+- download your financial institution’s mobile banking app to your mobile device
+- open the app on your device
+- sign in using your username or account number and password
+Only download banking apps and updates from trusted sources, like:
+- your financial institution’s website
+- your device’s app store
+#### Mobile banking sites
+A mobile banking site lets you access your accounts on your mobile device without downloading an app.
+Using a web browser on your mobile device is like using online banking on a computer. Mobile banking sites may give you a more detailed view of your accounts. They may also offer more services than a mobile banking app.
+
+[S2] Online banking — Using online banking
+Online banking lets you access your accounts online to complete financial transactions. For example, you may use online banking to pay bills or transfer money between accounts.
+You may bank online using a computer or a mobile device, like a phone or tablet.
+Before using online banking, you may need to:
+- register for online banking with your financial institution
+- enter your debit card number
+- create a username and password
+- read and accept the terms and conditions
+Online banking transactions usually cost less than using:
+- in-person teller services
+- automated teller machines (ATMs)
+### Tip
+Stay on top of your money in real time. Online banking lets you check transactions as they happen, no need to wait for a monthly statement.
+### Using online banking on a computer
+To access your accounts online, you must:
+- go to your financial institution’s website
+- enter:
+- your username or account number
+- your password
+- answers to your security questions
+- complete the 2-step verification process if it's set up on your account
+Online banking on a computer allows you to:
+- manage your accounts and payments:
+- access your accounts
+- make future-dated payments
+- transfer funds between accounts
+- schedule regular payments or transfers
+- apply for and set up services:
+- open a new account
+- apply for loans
+- access your monthly statements
+### Tip
+Act quickly if something looks suspicious. Some financial institutions let you block access to your debit or credit cards online if you notice unusual activity.
+### Using online banking on a mobile device
+You may use mobile banking wherever you take your mobile device, like cell phones and tablets.
+To access your accounts on a mobile device online, you may use:
+- a mobile banking application (app)
+- your financial institution’s online banking site in a web browser
+### Tip
+Know what your app can do. Some banking apps allow only certain transactions, like transfers or bill payments. To access all services, use your financial institution’s online banking site.
+#### Mobile banking application (app)
+
+[S3] Credit report and score basics — Who can see and use your credit report
+Credit bureaus follow rules about who can see your credit report.
+Those who may request to see your credit report include:
+- banks, credit unions and other financial institutions
+- credit card companies
+- car-leasing companies
+- phone and internet providers
+- utility companies
+- insurance companies
+- governments
+- employers
+- landlords
+They may use your credit report to make decisions about:
+- lending you money
+- calculating your interest rate
+- increasing your credit limit
+- collecting a debt
+- providing insurance
+- renting you housing
+- hiring you for a job
+Checking your own credit report or score doesn’t affect your credit score.
+When a lender or organization “checks your credit” or “pulls your report,” it creates an inquiry on your credit report.
+Learn more about credit inquiries.
+### Consent and credit inquiries
+In most provinces in Canada, you must give consent before a business or individual can check your credit.
+When you sign a credit application, you consent to this. This consent usually lasts for as long as you keep the account open. Your consent also lets lenders send your information to credit bureaus after they approve your application. However, in these 3 provinces, a business or individual only needs to tell you they’re checking your credit report:
+- Nova Scotia
+- Prince Edward Island
+- Saskatchewan
+In some cases, certain government representatives, such as judges or police, can see your credit report without your consent.
+Contact your provincial or territorial consumer affairs office to learn more about credit reporting laws.
+### Related link
+- Canadian Anti-Fraud Centre
+
+[S4] Cancelling your credit card — Step 2: Check your credit card statement
+Certain transactions may appear on your credit card statement even after you cancel your account. These may include:
+- transactions you approved before you closed your account
+- recurring transactions such as a monthly gym membership
+If you make pre-authorized payments using your credit card, contact the company you're making the payment to. You may arrange to pay another way or cancel the service. If you don’t, the company will continue to bill you and the charges will build up until you pay them. Interest charges will continue to apply to any outstanding balance on your accounts even after you closed them.
+
+[S5] Getting a credit card: know your rights — Your right to receive electronic alerts
+Your bank is required to send you an electronic alert, without delay, in 2 situations:
+- when the balance of your chequing or savings account falls below $100 or an amount you’ve set
+- when the credit available on your credit card or personal line of credit falls below $100 or an amount you’ve set
+Your bank will automatically set the electronic alert to $100. You may ask your bank to set the alert to a different amount. You may also change the amount yourself through your bank’s mobile app or website.
+The alert must tell you:
+- that the balance of your account has fallen below the amount described above
+- that the credit available on your credit card or line of credit has fallen below the amount described above
+- what charges or penalties may apply to current or future transactions
+- what steps to take to avoid charges or penalties and the deadline for doing this
+Your bank will send this alert to you automatically. You don’t have to sign up, but you may opt out at any time by informing your bank in writing. This could be done by email.
+The alert doesn’t apply to accounts opened for business purposes.
+Your bank will send the alert via push notification, text message or email. It will depend on your contact information with the bank, the preferences you’ve set-up and the systems your bank has in place.
+You won’t receive the alert if you didn’t provide your bank with the necessary contact information. For example, you didn’t provide your mobile phone number or email address.
+For more information on electronic alerts, contact your bank or visit their website.
+Other financial institutions may choose to offer electronic alerts. Contact yours to find out if they offer them.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S06,single,"When I move my bank account to a different bank, should I keep my old account open during the transfer?","Yes. The passage advises keeping your old account open during the transfer. Most financial institutions can also arrange to move your automatic payments, such as pre-authorized debits, to the new account.","Yes, the passages recommend keeping your old account open during the transfer [S1]. They also advise not closing old accounts too soon and keeping them open for several months to make sure there is enough money to cover payments [S3]. Only close them once all transactions are complete, and check whether a closing fee applies [S3].","[S1] Opening a bank account — Transferring your account to another bank
+If you already have a bank account, you may choose to move it to another financial institution. For example, if they offer a product that better suits your needs. Review your bank account and the services included from time to time.
+Most financial institutions have a process to help you transfer your account. They may arrange to move your automatic payments, like pre-authorized debits, to your new account. Keep your old account open during the transfer.
+Learn more about pre-authorized debits (PAD).
+Check statements from both institutions until you confirm:
+- the new account is working properly
+- you’re not making the same payments twice
+Help prevent fraud. Cut up old debit cards and cheques.
+Learn more about transferring your financial products and services to another financial institution.
+
+[S2] Transferring your financial products and services to another financial institution — Transferring your chequing and savings accounts
+You may transfer deposit accounts like your chequing and savings accounts.
+Before you close your current accounts, make sure you have:
+- a list of your automated transactions
+- your new account details
+- enough time to transfer your direct deposits and pre-authorized debits
+- enough money in your accounts to cover payments during the switch
+### Identify your automated transactions
+To find your automated transactions, you may:
+- check your transactions over the last few months or the past year to find pre-authorized debits
+- identify all direct deposits, including income from work, pension and benefits
+- review your bills and budget so you don’t miss any payments
+### Open a new account
+If you meet certain conditions, banks, federal credit unions and authorized foreign banks must open a deposit account for you.
+Review the terms and conditions and ask questions. Keep a copy of your account agreements.
+Learn more about opening a bank account.
+### Transfer your money
+You may transfer your money from your current accounts to your new accounts.
+Most financial institutions may help with transfers through:
+- wire transfers
+- Interac e-Transfers®
+- linked accounts
+- electronic funds transfers
+- bank drafts
+Ask your financial institution which option is best for moving money into your new chequing and savings accounts.
+### Update your direct deposits and pre-authorized debits
+Give your creditors and service providers your new banking information.
+### Tip
+Before payments start coming out of your new account, make sure there’s enough money in it to cover them. This may help you avoid missed payments and fees.
+Ask if your financial institution can transfer your pre-authorized debits for you. If not, you’ll need to set them up on the new account and cancel them on the old account.
+Learn more about requesting a stop payment.
+### Review your accounts after the transfer
+Review both accounts before closing the old one.
+Make sure you:
+- can access your new chequing and savings accounts
+- received your new debit card, if applicable
+- changed your direct deposits
+- cancelled or transferred all pre-authorized debits
+
+[S3] Transferring your financial products and services to another financial institution — Transferring your chequing and savings accounts
+- requested stop payments for any cheques you wrote
+### Tip
+Don’t close your old accounts too soon.
+You may want to keep them open for several months and make sure there’s enough money to cover payments.
+### Close your accounts
+Once you’re sure all transactions are complete, ask your current financial institution to close your old accounts.
+You may have to pay a closing fee. Check the terms and conditions of your account agreement for more information.
+
+[S4] Opening a bank account — Before opening an account
+Before opening an account, consider:
+- how you will use the account
+- any fees or charges
+- interest you may earn
+- deposit insurance protection
+Before you open an account, read the account agreement carefully. Ask questions about anything you don't understand.
+Keep a copy of your account agreement.
+Learn more about deposit insurance.
+Use the Account Comparison Tool to compare features for different accounts
+
+[S5] Transferring your financial products and services to another financial institution — Introduction
+Learn more about transferring your financial products and services to another financial institution. Follow steps to transfer accounts, credit cards, loans and lines of credit, mortgages and registered products.
+### Planning a product or service transfer
+Moving products or services to another financial institution involves many steps and may take time. You may need to open the new product first and cancel the old one later.
+Leave enough time to:
+- transfer money
+- receive any new cards
+- update payments
+### Tip
+Plan before you start the transfer.
+Keep track of your accounts and services during the process. This will help you avoid overdraft fees, missed payments and non-sufficient funds (NSF) fees.
+Before transferring a financial product or service to another financial institution, ask whether any fees apply.
+These may include:
+- account transfer fees
+- administrative fees related to moving products or services
+Understanding these costs before you begin the transfer process can help you make an informed decision.
+### Know why you may want to transfer a product or service
+There are many reasons why you may want to transfer your products or services to another financial institution.
+Examples include:
+- to save on fees or interest charges
+- to earn more interest
+- to get products or services that better fit your needs
+- you’re unhappy with the service at your current institution
+- your financial institution is closing the branch where you hold your products and services
+- another financial institution acquired yours
+You may have to transfer your products and services if your financial institution fails. This is very rare in Canada, but it’s possible.
+### Know what to do if your financial institution fails
+If your financial institution fails, deposit insurance protects your eligible deposits.
+The Canada Deposit Insurance Corporation (CDIC) protects eligible deposits at each of its member institutions. CDIC coverage is free and automatic. You don’t need to sign up.
+If a CDIC member institution fails, CDIC will contact you. CDIC will reimburse insured deposits based on the records of the failed member institution.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S07,single,How long do I have to tell my financial institution about a pre-authorized debit I didn't approve?,You should let your financial institution know about incorrect debits or debits you didn't approve within 90 days of the withdrawal. This is one of the steps listed for protecting yourself when using a PAD agreement.,"You usually have 90 calendar days from the date the funds come out of your account to report an unauthorized pre-authorized debit to your financial institution. After 90 days, your financial institution doesn't need to reimburse you [S1]. The passages also advise letting your institution know about debits you didn't approve within 90 days of the withdrawal [S3].","[S1] Pre-authorized debits (PAD) — Handling debits you didn’t approve
+If you notice a PAD on your account that you didn’t approve, contact the biller and ask for your money back.
+### When you may get your money back
+You have the right to get your money back if:
+- the biller withdrew the money on the wrong date or for the wrong amount, or
+- you cancelled the contract
+You may not be able to get your money back if the PAD moved money between your accounts at 2 financial institutions.
+Contact your financial institution for details on its PAD policy.
+### When to report an unauthorized preauthorized debit
+You usually have 90 calendar days from the date the funds come out of your account to report the problem. Contact your financial institution and ask for your money back. Your financial institution doesn’t need to reimburse you if more than 90 days have passed.
+Your financial institution will ask you to sign a declaration that confirms why you’re reversing the debit.
+### Tip
+Act quickly if a debit wasn’t authorized. If an unauthorized PAD caused extra charges, ask your financial institution to reverse them. For example, if it led to another payment being declined.
+
+[S2] Pre-authorized debits (PAD) — Making a complaint about an unauthorized debit
+You may file a complaint with your financial institution if an unauthorized debit goes through your account.
+Learn how to file a complaint with your bank.
+### Related link
+- Using debit cards
+
+[S3] Pre-authorized debits (PAD) — Understanding pre-authorized debits
+With a PAD, you allow a biller to take money from your bank account when a payment is due. PADs may work well for regular payments you want to make.
+You may use PADs for:
+- mortgage payments
+- utility payments
+- Registered Retirement Savings Plan (RRSP) contributions
+- insurance premium payments
+- credit card payments
+### Non-sufficient funds fees
+Your financial institution may charge you non-sufficient funds (NSF) fees. This is when there isn’t enough money in your account to cover a transaction, like a PAD. Watch your account balance to avoid extra fees.
+Make sure you know how much your financial institution will charge you for non-sufficient funds.
+Learn more about non-sufficient funds fees.
+#### Get electronic alerts from your financial institution
+Your financial institution may send you an electronic alert when the balance of your chequing account falls below a certain amount.
+These alerts may help you manage your finances and avoid fees.
+Learn more about electronic alerts.
+### How to protect yourself when using a preauthorized debit agreement
+If you use a PAD agreement:
+- read the terms and conditions before signing
+- keep a copy of the signed agreement or confirmation for your records
+- inform the biller or financial institution you have PADs with if your banking information changes to avoid missed or declined payments
+- check your account to confirm withdrawals match what you pre-approved
+- let your financial institution know about incorrect debits or debits you didn’t approve, within 90 days of the withdrawal
+### Differences between preauthorized debits and automatic payments
+A PAD lets the biller withdraw money from your account. An automatic payment doesn’t give the biller permission to withdraw money.
+With an automatic payment, you send money from your account to the biller. You set it up yourself, not the biller.
+### Tip
+Manage payments when it works for you. You can usually set up and manage automatic payments through your financial institution or online banking, including one-time or recurring payments.
+
+[S4] Pre-authorized debits (PAD) — Cancelling a preauthorized debit
+To cancel a PAD agreement, you must notify the biller in writing. Keep a copy of your notice.
+The agreement needs to explain how to cancel the PAD. After you cancel, check your account records to confirm the withdrawals stopped.
+If withdrawals continue, contact the biller. If you’re not satisfied with their response, you have 90 days to ask your financial institution for a reimbursement.
+Stopping a PAD doesn’t erase what you owe. Cancelling your PAD agreement doesn’t cancel your contract with the biller or the money owed. You’ll need another way to pay any remaining amounts.
+### How to request a stop payment
+If you need to cancel a single payment, you may request a stop payment from your financial institution. You may also be able to put a stop payment on recurring payments.
+
+[S5] Pre-authorized debits (PAD) — Setting up a preauthorized debit agreement
+You set up a PAD by completing a pre-authorized debit agreement that gives permission for withdrawals. You may set it up in writing, electronically or over the telephone.
+You need to provide your banking information as part of the agreement.
+You may need to provide a void cheque to confirm your account details.
+### Tip
+Protect yourself from fraud. Write VOID in ink across the front of the cheque. Don’t sign the VOID cheque.
+### What your preauthorized debit agreement needs to include
+Your PAD agreement needs to explain the amount the biller will withdraw and how often.
+#### Amount
+Your agreement needs to say if the amount stays the same each time or can change:
+- fixed, or the same amount each time
+- variable, or a different amount
+If the amount can change, the biller must give you written notice of the amount. They must do this at least 10 days before the withdrawal unless you waive or shorten the notice period.
+#### Frequency
+The agreement needs to say how often the biller may withdraw money from your account:
+- fixed, or on a set schedule, for example weekly, monthly, every 6 months or once a year
+- variable, or only if you’re billed, for example if you make a purchase
+The biller must get your approval for each PAD if:
+- your agreement doesn’t define the frequency, or
+- the frequency is variable
+Confirm how payments are approved. You may need to give the biller a password or secret code to approve the PAD.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S10,single,How can I find out whether I have credit card balance insurance on my card?,"You can check your credit card statement for premium charges or for balance insurance listed under optional products, check your credit agreement for optional products, or contact the credit card issuer. You can also look for a certificate of insurance sent with your credit agreement or separately after you received your card.","You can check your credit card statement for premium charges and see whether balance insurance is listed under optional products [S1]. You can also check your credit agreement for any optional products [S1]. Another option is to contact your credit card issuer and ask whether you have balance insurance [S1]. Finally, look for a certificate of insurance, which may have come with your credit agreement or separately after you received your card [S1].","[S1] Credit card balance insurance — Find out if you have credit card balance insurance
+You must agree to sign up for credit card balance insurance before someone can charge you for it. This means giving your express consent.
+To find out if you have credit card balance insurance:
+- check your credit card statement for premium charges
+- check if your credit card statement lists balance insurance under optional products
+- check your credit agreement for any optional products
+- contact the credit card issuer to ask if you have credit card balance insurance
+- check for a certificate of insurance that came:
+- with your credit agreement, or
+- separately after you received your credit card
+Credit card balance insurance is different from non-optional insurance that might be features of your credit card. For example, for purchases, extended warranties, auto collision, or travel insurance.
+Learn more about giving your express consent for optional products and services.
+
+[S2] Credit card balance insurance — Signing up for credit card balance insurance
+You can apply and sign up for credit card balance insurance in person, over the phone or online. You can get it from the same business where you got your credit card.
+Issuers include:
+- banks
+- credit unions
+- caisses populaires
+- stores and other companies that offer credit cards
+You don’t need to decide to add credit card balance insurance when applying or activating your credit card. You can add it at any time. Take your time to decide if it’s the right coverage for you.
+You may want to have credit card balance insurance on more than one credit card. In that case, you must sign up for separate insurance coverage for each card.
+You may get credit card balance insurance from a federally regulated financial institution, like a bank. In that case, they must give you certain information before and after the policy takes effect. They must explain the product to you in a way that is clear, simple and not misleading.
+Like other types of credit and loan insurance, credit card balance insurance is not sold by a licensed insurance representative. This means that the person selling you balance insurance won’t do a full analysis of your insurance needs and financial circumstances.
+### Understand the terms and conditions of credit card balance insurance
+The terms and conditions of credit card balance insurance provide you with information about this insurance. This includes the types of benefits it provides and what it covers and doesn’t cover. You can find the terms and conditions in the certificate of insurance. You can usually find a sample certificate of insurance on the websites of the businesses that offer the product.
+### Benefits
+The amount and the duration of benefits vary depending on the credit card coverage. For example, if you lose your job, balance insurance may pay a percentage of your credit card balance.
+This is usually 10% to 20% of your balance:
+- up to a maximum amount every month for a period of 5 to 10 months, or
+
+[S3] Credit card balance insurance — What to know about credit card balance insurance
+Credit card balance insurance provides coverage that may help to pay down, or pay off your balance if you:
+- lose your job
+- participate in a legal strike or walk out
+- are hospitalized
+- become injured or disabled
+- become critically ill
+- die
+Credit card balance insurance is also known as:
+- balance insurance
+- balance protection insurance
+Some credit card balance insurance products also provide certain benefits for the credit card holder’s spouse.
+Someone may offer you credit card balance insurance when you:
+- apply for a credit card
+- activate your card
+- make changes to your credit card, like a credit limit increase
+Credit card balance insurance is optional insurance and is a separate product from your credit card. You don’t need to sign up for credit card balance insurance to get approval for a credit card.
+Credit card balance insurance may not be right for you if you have coverage from another insurance policy. Compare the coverage and cost with other insurance options. They may already provide you with similar coverage but at a different cost. For example, a term life insurance policy, disability insurance policy or your employer’s insurance plan.
+Make sure the insurance meets your needs in terms of protection. If your lender is a federally regulated bank, they must offer and sell you products and services that are appropriate for you. They must base this offer on your circumstances and financial needs. They also must tell you if they’ve assessed that a product or service isn’t appropriate for you.
+Take the time to describe your financial situation to ensure you get the right product. Don't hesitate to ask questions and make sure you understand the insurance product you have or want.
+You may not need credit card balance insurance if you:
+- have enough savings to pay your balance
+- pay your balance in full each month
+Know your rights before you sign up for credit card balance insurance.
+
+[S4] Credit card balance insurance — Cost of credit card balance insurance
+- your credit card balance, if you don’t make additional purchases or payments, would be zero. This is as long as the entire amount was under the maximum set out in your certificate of insurance
+Learn how to make an insurance claim.
+
+[S5] Credit card balance insurance — Signing up for credit card balance insurance
+- until you reach a cap on the total amount of benefits
+If you become critically ill or die, balance insurance may pay off your balance in full or up to a maximum amount.
+Credit card balance insurance benefits apply to the amount you owed on your card at the date of loss. This means the date of death, unemployment, total disability, or your critical illness diagnosis. Credit card balance insurance benefits won’t cover purchases you make on your credit card after the date of loss. Check the terms and conditions for specific information about when benefits will apply.
+### Restrictions, limitations, and exclusions
+There are important restrictions, limitations and exclusions on the coverage provided by credit card balance insurance. You can find this information in the certificate of insurance. For example, coverage may exclude pre-existing conditions, and critical illnesses that the insurance covers will be specifically defined. Read the certificate of insurance carefully and ask questions if you don’t understand what it covers.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S15,single,"If I have a $2,000 credit card balance at 18% interest and only pay the minimum each month, how long will it take to pay off, and how much interest will I pay in total?","Paying only the minimum (a $60 monthly payment) on a $2,000 balance at 18% takes 3 years and 11 months to pay off, with $793 in interest paid and a total of $2,793 paid.","If you have a $2,000 balance at 18% interest and pay only the minimum each month ($60 per month in the example), it will take 3 years and 11 months to pay off, with $793 in interest paid and $2,793 paid in total [S1]. Paying only the minimum means it takes longer to pay off your balance and you pay more interest [S1]. The passage does not say how your own minimum payment would be calculated, so check your credit agreement for your issuer's method [S1].","[S1] Paying off your credit card — Making at least the minimum payment
+Make at least the minimum payment if you can’t pay off your balance. The minimum payment is the minimum amount you must pay each month on your credit card balance.
+Your minimum payment will be:
+- a flat dollar amount, usually $10, plus any interest and fees, or
+- the higher of a dollar amount, typically $10, or a percentage of your outstanding balance, typically 3%
+Your credit agreement will tell you which method your credit card issuer uses to calculate your minimum payment.
+Paying only the minimum amount means:
+- it takes you longer to pay off your balance
+- you pay more interest
+Increasing your monthly payment will shorten the time it will take you to pay off your balance. Even a small amount will shorten the time by a lot.
+Since August 1st, 2025, the credit card minimum payment for Quebec residents is 5%.
+Table 1: Cost and time to pay off your credit card when you make only the minimum payment and when you increase your monthly payment Payment scenarios | Starting balance | Payment amount | Interest rate | Time required to pay off balance | Interest paid | Total amount paid |
+Scenario 1: You pay only the minimum each month | $2,000 | $60 | 18% | 3 years, 11 months | $793 | $2,793 |
+Scenario 2: You pay the minimum plus $100 each month | $2,000 | $160 | 18% | 1 year, 2 months | $231 | $2,231 |
+Use the Credit Card Payment Calculator to compare your payment options.
+Your credit card issuer may be a federally regulated financial institution. In that case, your credit card statements must include the time required to pay off your balance by only paying the minimum amount.
+Learn more about the information your financial institution must give you about your credit card.
+
+[S2] Choosing a credit card — Comparing credit card interest rates
+A credit card’s interest rate may be an important factor if you regularly carry a balance. A balance is the amount of money you owe on your credit card. The higher the interest rate, the more interest you'll pay on an outstanding balance. A lower interest rate card may save you money over time.
+Different interest rates may apply to different types of transactions. These transactions include purchases, cash advances or balance transfers.
+The interest rate may not be an important factor in choosing a credit card if you:
+- pay your balance in full every month
+- don’t take out cash advances
+- don’t make cash-like transactions
+There are many credit cards with low interest rates available. Some low-rate cards charge an annual fee. Even if there is a fee, a low-rate card may be a better option.
+### Example: Compare low interest rate cards and standard cards
+Suppose you regularly carry a balance on your credit card. You want to pay off your balance of $4,000 in one year.
+Your current credit card has:
+- an interest rate of 21%
+- no annual fee
+You’re considering a low interest rate card with
+- an interest rate of 9%
+- a $50 annual fee
+Table 1: Compare the total cost of your current credit card with a low-rate card over a one-year period Type of credit card | Balance
+owing | Interest
+rate | Annual
+fee | Interest
+paid | Total cost to pay off balance
+(including annual fee) |
+Current standard card | $4,000 | 21% | $0 | $472 | $4,472 |
+Low interest rate card | $4,000 | 9% | $50 | $199 | $4,249 |
+In this example, you'll pay $273 less in interest with the low interest rate card. This is even with the $50 annual fee. Keep in mind that this example assumes you don't use your credit card while you pay down your balance.
+### Credit card introductory offers with low interest rates
+
+[S3] Paying off your credit card — How credit card issuers apply payments to your balance
+If you don’t pay your credit card balance by the due date, you’ll pay interest.
+Different interest rates may apply to different types of credit card transactions. For example, cash advances often have a higher interest rate than purchases. This means different interest rates will apply to your balance depending on how you use your credit card.
+Typically, your minimum payment will apply to the portion of your balance with the lowest interest rate. Any amount you pay over the minimum payment applies in one of the following 2 ways:
+- to the portion of the balance with the highest interest rate
+- proportionally to the entire balance
+Your credit card issuer may be a federally regulated financial institution. In this case, they can decide how they'll apply your minimum payment to your balance.
+Check your credit card agreement or ask your credit card issuer how they apply payments to your balance.
+
+[S4] Paying off your credit card — Making your payments on time
+You can choose to pay your balance in different ways such as:
+- online
+- by telephone
+- at an ATM
+- in person at a branch
+- by pre-authorized debit
+- by mail with a cheque
+The payment method you choose can affect how quickly the issuer processes it and the date they consider it paid. The time to process your payment will also vary depending on your financial institution. Make sure you know when your issuer will process your payment to avoid making a late payment.
+Issuers process credit card payments during business days from Monday to Friday. If a payment is due on a weekend or holiday, you can make your payment the following business day. This will count as paying on time.
+Contact your credit card issuer to find out how long it takes to process different payment methods.
+### Aim to pay off your balance every month
+The money you owe on your credit card is your balance. Try to pay it off by the due date each month. If you don't pay your balance by the due date, you'll pay interest from the date you made the purchase. The interest you pay will increase the cost of everything you buy with your credit card.
+Paying your balance each month shows lenders that you’re a responsible borrower. Regularly making late payments or missing payments will hurt your credit score.
+Learn more about using your credit card responsibly.
+
+[S5] Using your credit card responsibly — Tips when using your credit card
+When you use your credit card, you’re borrowing money that you have to pay back. A credit card doesn’t increase the amount of money you have. Your credit card spending should fit within your regular household budget.
+If you don't use your credit card wisely, you may end up:
+- building up debt
+- paying interest
+- hurting your credit score
+### Aim to pay off your balance every month
+The money you owe on your credit card is your balance. Try to pay it off by the due date each month. If you don't pay your balance by the due date, you'll pay interest from the date you made the purchase. The interest you pay will increase the cost of everything you buy with your credit card.
+Paying your balance each month shows lenders that you’re a responsible borrower. Regularly making late payments or missing payments will hurt your credit score.
+### Pay at least the minimum amount
+If you can’t pay your balance, always aim to pay at least the minimum amount you owe.
+If you don't pay at least the minimum amount, you risk:
+- your interest rate increasing
+- negatively affecting your credit score
+- losing the benefit of any promotional rate offer you have
+- your financial institution cancelling your credit card
+- your card provider cancelling your credit card balance insurance
+### Regularly check your statement for errors
+Carefully review your monthly credit card statement to make sure that there are no errors.
+When you check your credit card statement online, purchases will usually appear after a few days. Keep receipts of all your credit card purchases so you can check the amounts against your statement.
+If you find an error, report it right away. Contact the financial institution that issued the credit card.
+### Get electronic alerts from your financial institution
+Your financial institution may send you an electronic alert when the credit available on your credit card falls below a certain amount.
+These alerts may help you manage your day-to-day finances and avoid fees.
+Learn more about these electronic alerts.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: says the passage doesn't explain 'your own' minimum, slightly odd since S1 lists the 2 methods, but the advice to check the agreement is in S1"
+S22,single,Does a reputable credit counselling agency charge for the first meeting with a counsellor?,No. The passage says no reputable credit counselling agency will charge you for the first meeting with a counsellor. Customers can meet a counsellor to see whether it is a good match before paying anything.,"No. A reputable credit counselling agency will not charge you for the first meeting with a credit counsellor [S1]. Before deciding, you can ask the agency whether the first consultation is free [S1].","[S1] Getting help from a credit counsellor — Finding a credit counselling agency
+- if you’re not sure a company is part of a government program, contact the government department or agency that is responsible for the program
+- ask them to confirm that the company’s representation is genuine
+Find a government department or agency:
+- Contact a federal department or agency.
+- Contact your provincial or territorial consumer affairs office
+### Find out about the agency’s services and costs
+The services that credit counselling agencies offer and the fees they charge can vary greatly.
+Ask the following questions about their services to help find an agency that is right for you:
+- is the first consultation free
+- what services does the agency provide
+- will the agency provide you with a written proposal describing how they will help
+- what type of support will the agency provide to help you improve your money management skills
+- will the agency provide you with monthly statements of payments
+### Ask about the counsellor's qualifications
+Credit counsellors aren't legally required to have any specialized training. However, many credit counsellors have some training.
+Ask about the counsellor’s qualifications, including:
+- education
+- specialized training
+- years of experience
+The purpose of the training is to provide counsellors with the unique skills required to help consumers with their personal finances.
+### Are you comfortable with the credit counsellor
+If the credit counselling agency’s services seems to meet your needs, ask to meet with a credit counsellor. This way you can see if it's a good match. No reputable credit counselling agency will charge you for the first meeting.
+Make sure you trust the counsellor’s opinion and judgment. If you're not comfortable, ask for another counsellor.
+
+[S2] Getting help from a credit counsellor — Introduction
+You may be having trouble paying back your debt or keeping up with your payments. In this case, you may want to talk to a credit counsellor. Simply talking to them won't affect your credit score.
+A credit counselling agency can provide a range of services, such as:
+- one-on-one counselling
+- group courses, tips and seminars on topics such as budgeting and using credit wisely
+- debt management plans
+
+[S3] Getting help from a credit counsellor — Filing a complaint about a credit counselling agency or credit counsellor
+Provincial and territorial governments are responsible for regulating credit counselling agencies and investigating consumer complaints.
+Contact your provincial or territorial consumer affairs office.
+
+[S4] Getting help from a credit counsellor — Finding a credit counselling agency
+Both not-for-profit organizations and for-profit companies offer credit counselling services.
+Do your research to find a trustworthy organization and a qualified counsellor. Make sure you know what services they offer and how much they cost.
+### Research the agency’s reputation
+Make sure that the agency is in good standing with a provincial or national association. These associations require members to maintain specific standards of practice.
+You can find agencies through these associations:
+- Credit Counselling Canada
+- Canadian Association for Financial Empowerment
+In Quebec, budget and credit counselling services are often offered by Associations coopératives d’économie familiale (ACEF).
+You can find the ACEF member list through this organisation:
+- Coalition des associations de consommateurs du Québec (CACQ) (in French only)
+Find out if there have been any serious or unresolved complaints about the agency. This includes late payments to creditors or false advertising.
+Check for complaints about the agency with:
+- the Better Business Bureaus
+- l'Office de la protection du consommateur (Quebec)
+### Be cautious when looking for help
+Some companies offering help to pay off debt or repair credit are misleading consumers.
+What you need to know when getting help to pay off debt or repair your credit.
+Look carefully at the agency’s advertising
+Be cautious. If it sounds too good to be true, it probably is.
+Some agencies or companies may claim or misrepresent that they:
+- can solve your debt problems quickly for a fraction of your debt
+- can quickly and easily fix your credit score
+- offer services as being part of a government program
+Keep in mind:
+- you may still need to pay fees even if your creditors refuse to negotiate with the agency
+- it’s impossible to change or erase information that’s part of your credit history, unless information is inaccurate
+- improving your credit score will take time
+- you must show your creditors that your habits have improved and that you're paying back your debt on time
+- agencies or companies should never try to coerce you into using their services
+
+[S5] Getting help from a credit counsellor — Debt management plans
+You can sign up for a debt management plan through a credit counsellor.
+A debt management plan is an informal proposal your credit counsellor makes to your creditors on your behalf. It allows you to consolidate your debts into one affordable monthly payment. In some cases, you may not have to continue to pay interest on your debt. You'll usually have to repay 100% of your debts.
+Before you enroll in a debt management plan, you’ll meet with a credit counsellor. They’ll assess your situation, help you make a budget and give you tips about dealing with your debt. If you decide to sign up for a debt management plan, they’ll contact your creditors on your behalf.
+Your credit counsellor will ask your creditors if:
+- they’ll reduce or eliminate the interest rate or fees on your debt
+- they’ll extend the period of time which you have to repay your debt
+Some of your creditors may not accept your debt management plan. In that case, your credit counsellor will usually suggest you make payment arrangements directly with those creditors.
+If your creditors accept the debt management plan, you'll then make regular payments to the credit counselling agency. The agency will use your payments to pay off your creditors according to the plan. Keep in mind that creditors can still use collection agencies to recover the money you owe. Your credit counsellor can ask creditors to stop, but they have no legal power to make them stop.
+Learn more about debt consolidation.
+### What to consider before you sign up for a debt management plan
+Think about the following before you enroll in a debt management plan.
+#### How much it costs
+Make sure you know what fees they charge, as these may vary.
+These fees may include:
+- initial set-up fee
+- monthly administration fee
+- application fee
+- membership fee
+- upfront fee or fee for each creditor
+Ask if they’ll reduce or eliminate fees if you can't afford to pay them.
+#### Will it save you money",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S25,single,"What should a bank do if it has assessed a product as not appropriate for a consumer, or if it is unable to complete the appropriateness assessment?",The bank should inform the consumer in either case. This applies both when the bank has found a product or service not appropriate for them and when the bank cannot conduct the assessment.,"A bank should inform consumers when it has assessed a product or service as not appropriate for them, or when it is unable to conduct the assessment [S2][S3]. This information should be provided so that consumers can make informed decisions, using clear, simple and not misleading language, and presented in a way that accounts for the distribution channel, the nature of the product or service and other relevant factors [S3]. The bank's policies and procedures should also address how to proceed if consumers still wish to buy a product the bank has assessed as not appropriate, or if the assessment cannot be conducted [S1].","[S1] Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks — V. Assessing appropriateness
+19. A Bank’s Policies and Procedures should ensure that the Bank conducts an appropriateness assessment when it offers or sells products or services to consumers. For greater certainty, a Bank’s Policies and Procedures should ensure that it conducts an appropriateness assessment even when these products or services have been requested by consumers.
+20. A Bank’s Policies and Procedures should ensure that the Bank can demonstrate that assessments are being conducted and the outcome of these.
+21. A Bank’s Policies and Procedures should address how to proceed if consumers wish to purchase products or services that the Bank has assessed as not appropriate for them, or if it cannot conduct the assessment.
+
+[S2] Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks — II. Key principles
+7. A Bank’s senior management and the committee of the board responsible for the Bank’s compliance with consumer provisions—or, in the case of an Authorized Foreign Bank, its senior management—should oversee the establishment and implementation of the Policies and Procedures.
+8. When establishing and implementing Policies and Procedures, a Bank should recognize that consumers are a diverse group, and that some consumers may have financial vulnerabilities. Policies and Procedures should be comprehensive and result in a Bank offering or selling products or services that are appropriate for consumers, having regard to their circumstances, including their financial needs.
+9. A Bank should keep records that demonstrate that it has established and implemented Policies and Procedures that meet the requirements of the Bank Act.
+### Effectiveness
+10. A Bank should effectively address and implement the following:
+#### i. Know your consumer
+A Bank should collect and assess Know Your Consumer (KYC) information to understand consumers’ circumstances, including their financial needs, when it offers or sells products or services to them.
+#### ii. Know your product
+A Bank should understand the features, charges, risks and benefits of the products or services that it offers or sells.
+#### iii. Assess appropriateness
+A Bank should assess the appropriateness of the product or service when it offers or sells it.
+#### iv. Inform consumers
+A Bank should inform consumers when it has assessed a product or service as not appropriate for them, or when the Bank is unable to conduct the assessment.
+#### v. Align remuneration
+A Bank should include controls relating to its remuneration, incentive and benefit practices to align with the intent and application of the Policies and Procedures.
+
+[S3] Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks — VI. Informing consumers
+22. A Bank’s Policies and Procedures should ensure that the Bank informs consumers when it has assessed products or services as not appropriate for them or if it cannot conduct the assessment so that consumers can make informed decisions. The Bank’s Policies and Procedures should ensure that this information:
+22.1. is provided in a manner, and using language, that is clear, simple and not misleading
+22.2. is presented in a manner that accounts for factors such as the distribution channel, the nature of the products or services and any other relevant factors
+
+[S4] Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks — III. Know your consumer
+11. A Bank’s Policies and Procedures should ensure that the Bank collects and records the KYC information it needs to understand consumers’ circumstances so that it can assess the appropriateness of the products or services being offered or sold. The nature of the KYC information that a Bank may need to collect and record can vary depending on consumers’ circumstances, including their financial needs, and on the products or services that it offers or sells.
+12. A Bank’s Policies and Procedures should cover the collection and updating of information, including what information is to be collected and how it is to be used.
+13. A Bank’s Policies and Procedures should cover the verification of information, including how to proceed if that information is unreliable, inaccurate, outdated, or incomplete, or if the information has any other issue that calls its use into question.
+14. A Bank’s Policies and Procedures should cover circumstances when consumers refuse or are unable to provide KYC information.
+
+[S5] Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks — IV. Know your product
+15. In developing, designing, approving and offering appropriate products or services, a Bank should ensure it has an internal assessment, review and approval process in place that applies throughout the product or service life cycle that accounts for:
+15.1. an assessment of the features, risks, charges and benefits to consumers associated with the product or service
+15.2. considerations regarding distribution channels
+15.3. consumer-facing materials, such as disclosure documents or marketing materials
+16. A Bank should ensure that the internal assessment, review and approval process applies when:
+16.1. products and services are developed by the Bank, regardless of whether the product or service is sold directly by the Bank or through a Third Party
+16.2. Third Party products or services are offered or sold by or through the Bank
+16.3. material changes are made to existing products or services
+17. A Bank should require initial and ongoing training to ensure that an officer, employee or any person involved in the offer or sale of a Bank product or service has the necessary skills, knowledge and expertise to discharge their responsibilities related to the appropriateness of the product or service. This training should:
+17.1. cover the Bank’s obligations regarding the offer or sale of appropriate products or services
+17.2. cover the products or services that the officer, employee or person is offering or selling, including the relevant features, charges, risks and benefits of the Bank’s products or services and how to explain these to consumers
+18. A Bank should ensure it:
+18.1. provides the training program
+18.2. monitors officers’, employees’ or other persons’ completion of the training program
+18.3. regularly reviews and updates the training",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S28,single,"Can a buy now, pay later plan end up costing me more than what I paid for the item at the store?","Yes. Fees may apply with a buy now, pay later plan, so you might pay more than the retail price of your purchase.","Yes. Fees may apply, meaning you might pay more than the retail price of your purchase [S1]. Fees are usually payable if you don't make your payments on time [S2], and a missed payment on a retail credit card may raise your interest rate (for example, from 0% to 35%) and make the plan costly [S5]. Also, if you miss a payment, a buy now, pay later plan can be an expensive way to borrow money [S1]. The passages do not give a specific dollar amount for these costs.","[S1] Buy now, pay later plans — Things to consider before you get a buy now, pay later plan
+Before you sign up for a buy now, pay later plan, consider the following:
+- make sure you really need the item you plan to purchase
+- make sure you have the discipline to pay off the balance by the due date
+- determine if you can afford the higher interest charges and applicable fees if you:
+- miss a payment, or
+- can’t pay off the balance by the due date
+Before applying for a buy now, pay later plan, compare the pros and cons.
+### Pros
+- You may purchase something you need and spread the payments over a period to fit your budget.
+- You may take advantage of a low or 0% interest rate if:
+- you make your payments on time, and
+- pay your balance before the due date
+### Cons
+- It may be an expensive way to borrow money if you miss a payment.
+- Fees may apply, meaning you might pay more than the retail price of your purchase.
+- You need discipline to make your payments on time.
+- It may lead to over-borrowing if you take on a debt that:
+- you can’t afford, or
+- doesn’t fit your budget
+- You might put your credit at risk.
+- You might misjudge the actual/total cost of the purchase.
+- It might encourage you to spend beyond your means or make impulsive purchases.
+
+[S2] Buy now, pay later plans — What is a buy now, pay later plan
+Many companies offer buy now, pay later (BNPL) plans for the purchase of products and services. With this plan, you’re financing your purchase with credit.
+You may purchase something you need without having to pay for it in full right away. You spread the payments over time to fit your budget.
+These plans have other names.
+They include:
+- installment payment plans
+- retail financing plans
+- installment loans
+- credit card installment plans
+- retail credit services
+There are different payment models available, but they all allow you to pay later.
+Companies may offer a promotional rate for purchases made with a buy now, pay later plan. This rate may be as low as 0% interest. However, if you don’t make your payments on time, you’ll usually need to pay fees.
+Some companies charge an administration fee to set up the plan. Generally, you pay this fee at the time of your purchase.
+Make sure you understand the terms and conditions of your plan.
+
+[S3] Buy now, pay later plans — Payment models of buy now, pay later plans
+A retailer may offer to finance your purchase with a personal loan. They’ll provide you with the loan application.
+With this option, you enter into an agreement with a financial institution determined by the retailer. You borrow a fixed amount of money and agree to pay it back over a period. You must pay back the full amount, including any applicable interest and fees.
+Learn more about personal loans.
+
+[S4] Buy now, pay later plans — Filing a complaint about your buy now, pay later plan
+If you have a complaint about your buy now, pay later plan, contact the plan provider. Depending on your agreement, you may also need to contact the retailer.
+Learn what rules apply to retailers and how to file a complaint through your Consumer Affairs office.
+Find your provincial or territorial Consumer Affairs office.
+All federally regulated financial institutions must have a complaint-handling process in place.
+Learn how to file a complaint with your financial institution.
+Contact your regulator if your retail credit card provider operates under provincial or territorial regulations.
+Find your provincial or territorial regulator.
+
+[S5] Buy now, pay later plans — Payment models of buy now, pay later plans
+To use this option you must request it with your credit card provider. Check to see if you need to request it before or after your purchase.
+With this option, you may benefit from of a promotional interest rate. Promotional interest rates may be as low as 0%.
+There’s usually a minimum purchase amount. Credit card providers determine the purchase qualification process.
+Read your credit card agreement carefully. Ask your credit card provider about anything you don’t understand.
+### Retail credit cards
+Some retailers offer credit cards with a buy now, pay later payment option. A financial institution, like a bank, issues the retail credit card. You may be able to only use your card at a specific retailer or set of retailers.
+Some retail credit cards come with a promotional interest rate for your buy now, pay later purchase. Promotional interest rates may be as low as 0%.
+If you miss a payment, you may lose your promotional interest rate. This is also the case if you don’t pay your balance in full by the due date. For example, the interest rate may go from 0% to 35% if you miss the minimum payment due date. You’ll have to pay a higher interest rate until you pay your balance in full. This might be costly.
+Depending on the terms of your plan, a late payment means you’ll pay interest on either:
+- the full amount from the date of purchase
+- the unpaid balance
+When you sign up for a retail credit card, you agree to pay any fees associated to the card. This may include an annual fee. Read your credit card agreement carefully.
+The buy now, pay later payment amount may appear on your statement as follows:
+- included in your minimum monthly payment
+- as a transaction you need to pay in addition to the minimum monthly payment
+You may be able to make other credit card purchases using this card. The promotional interest rate may not apply to these other purchases.
+### Personal loan",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S29,single,Is taking out a loan to pay for a vacation considered good debt or bad debt?,"Borrowing for a vacation is considered bad debt, because bad debt may be harder to repay and may lead to higher interest costs over time. Good debt, by contrast, is meant to support long-term goals.","Borrowing for a vacation is considered bad debt. The passages list ""borrowing for a vacation"" as an example of bad debt that may be harder to repay [S1]. Bad debt may also lead to higher interest costs over time [S1]. Good debt, by contrast, is debt that helps you reach long-term goals, such as a home renovation loan or a student loan [S1].","[S1] What to consider before borrowing money — Choose debt that supports long-term goals
+A good debt helps you reach long-term goals.
+Bad debt may be harder to repay and may lead to higher interest costs over time.
+Good debt that may support long-term goals may include:
+- a loan for home renovations that may increase your home’s value
+- a student loan that may help you qualify for a job with a higher income
+Bad debt that may be harder to repay may include:
+- borrowing for a vacation
+- using a credit card for large purchases you may not be able to repay
+If you don’t repay in full, interest charges may apply and your debt can grow.
+You may still be paying for the purchase months or years later.
+Learn more about debt.
+
+[S2] Payday loans — What is a payday loan
+A payday loan is a short-term loan with high fees. It's an expensive way to borrow money. It’s also called a high-cost loan and high-cost credit. You may borrow up to $1,500 and you may have up to 62 days to pay it back.
+Payday loans are different from other loans because:
+- you may only take them out for a short period of time, usually weeks
+- you may qualify without a credit check
+- you pay a flat fee instead of interest when you pay on time
+- the lender organizes your loan payments around your payday schedule
+You must pay back some or all of the loan when you receive your next paycheque. If you don’t pay on time, you’ll pay more fees and interest charges. This will increase your debt.
+
+[S3] Payday loans — What happens if you can’t pay back a payday loan on time
+You may have serious consequences if you don’t make your payments on time.
+Depending on the laws in your province, these consequences may include the following:
+- If you don’t have enough money in your bank account to cover your pre-authorized payday loan payment:
+- the payday lender may charge you a fee
+- your financial institution may charge an insufficient funds fee (NSF)
+- The payday lender may charge you interest on the outstanding amount.
+- The total amount that you owe, including the fees, may continue to increase.
+- The payday lender may deal with a collection agency and this may appear on your credit report.
+- The payday lender or collection agency may sue you for the debt.
+Provincial laws define what a payday lender may do when trying to collect a loan. This includes when and how often the lender may contact you. It also includes what tactics the lender may use to get you to pay.
+Contact your provincial or territorial Consumer Affairs office, for more information on debt collection.
+If you don’t make your payday loan payments on time, you may get stuck in a debt trap.
+### Infographic: Payday loans: An expensive way to borrow money!
+Text version: infographic The infographic Payday loans: An expensive way to borrow money! is illustrating an example of what may happen when you take out a payday loan.
+You need $300 for household repairs. You get a $300 payday loan for 2 weeks. Over the 2-week period, you’ll pay $42 in charges, which is equivalent to a yearly interest rate of 365%. You owe $342.
+If you don’t make your payment, you pay a $20 penalty. You now owe $362.
+Before you make a decision, explore your options.
+This example is for illustration purposes only. Charges totalling $42 result from a cost of $14 per $100 borrowed. The maximum a Payday lender may charge, including any penalty fees, varies across provinces. Contact your provincial or territorial Consumer Affairs office for details.
+
+[S4] Payday loans — What options to consider before you get a payday loan
+Make sure you’ll be able to pay the loan back on time and cover your regular expenses.
+If you’re facing a financial emergency, you may consider:
+- asking for more time to pay your bills
+- cashing in vacation days
+- asking for a pay advance from your employer
+- getting a loan from family or friends
+Get tips on what to do if you’re facing a financial emergency.
+You may also consider other options that are less expensive than a payday loan such as:
+- getting a loan or line of credit from your financial institution
+- getting a cash advance on a credit card
+- using overdraft protection on your chequing account
+- asking your lenders for payment deferrals. This may include a mortgage payment deferral and a payment holiday on your credit card
+### Figure 1: Comparing the cost of a payday loan with other options (based on a $300 loan for 14 days)
+Text version: figure 1 Type of loan | Cost |
+Line of credit | $5.92 |
+Overdraft protection on a chequing account | $7.42 |
+Cash advance on a credit card | $7.65 |
+Payday loan | $42.00 |
+Source: Financial Consumer Agency of Canada
+The costs shown in this example are for illustration purposes only.
+The assumptions in the example are:
+- You borrow $300 for 14 days.
+- A payday loan costs $14 per $100 that you borrow. This is the same as an annual interest rate of approximately 365%.
+- A line of credit includes a $5 administration fee and an annual interest rate of 8%.
+- Overdraft protection on a chequing account includes a $5 fee plus an annual interest rate of 21%.
+- A credit card cash advance includes a $5 fee plus an annual interest rate of 23%.
+
+[S5] Paying back your debt — Identifying and assessing your debts
+Assessing your debts is important to manage and repay them. Use your budget to understand what you owe.
+### Identify your debts
+Your list of debts may include:
+- loans like personal, car, payday and student loans, mortgages, loans from family and friend, buy now and pay later plans
+- lines of credits like personal, student and home equity lines of credit
+- credit cards
+- other unpaid debts like:
+- property taxes
+- utility bills like phone, electricity and cable
+- spousal and/or child support
+For each debt, note the:
+- total amount you owe
+- minimum monthly payment
+- interest rate
+### Check your credit report
+Check your credit report to make sure it includes all your debts and is free of errors. You may get a free copy of your credit report online.
+Learn more about getting your credit report and credit score.
+### Compare your monthly income to your monthly expenses
+Use your budget to compare your monthly income to your monthly expenses. This shows how much money you can use for debt payments each month.
+If your monthly expenses exceed your income, act now. Take steps to improve your situation when facing financial difficulties.
+Learn more about managing your money in challenging times.
+### Reduce your expenses
+You may be able to reduce some of your expenses. This will allow you to increase the amount you have to pay back your debt.
+Learn more about reducing your expenses.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S30,single,What happens to my car if I have a secured line of credit and can't pay back what I owe?,"With a secured line of credit, an asset such as a car or home is used as collateral. If the borrower doesn't pay back what they owe, the lender may take possession of that asset.","With a secured line of credit, you use an asset as collateral, and the asset could be your car or your home. If you don't pay back what you owe, the lender may take possession of that asset [S2]. A home equity line of credit uses your house as collateral [S2]. The passages do not specifically say what happens to a car if you default on a secured line of credit beyond this, so check your agreement with your financial institution for details.","[S1] Lines of credit — What is a line of credit
+A line of credit is a type of loan that lets you borrow money up to a pre-set limit. You don't need to use the funds for a specific purpose. You may use as little or as much of the funds as you like, up to a specified maximum.
+You may pay back the money you owe at any time. You only pay interest on the money you borrow.
+To use some lines of credit, you may need to pay fees. For example, you may need to pay a registration or an administration fee. Ask your financial institution about any fees associated with a line of credit.
+### Interest on a line of credit
+Usually, the interest rate on a line of credit is variable. This means it may go up or down over time.
+You pay interest on the money you borrow from the day you withdraw money, until you pay the balance back in full.
+Your credit score may affect the interest you'll pay on a line of credit. It tells lenders how risky it is to lend you money. Usually, the higher your credit score, the lower the interest rate on your line of credit will be.
+### Getting money from a line of credit
+To access money from your line of credit, you may:
+- write a cheque from your line of credit
+- use an automated teller machine (ATM)
+- pay a bill using telephone or online banking
+- transfer money to your chequing account using telephone or online banking
+### Paying back a line of credit
+You'll get a monthly statement showing the amount owing on your line of credit. You must make your minimum payment each month. Usually, your payment is equal to the monthly interest. However, paying only the interest means that you'll never pay off the debt that you owe.
+Learn more about paying back debt.
+
+[S2] Lines of credit — Choosing the right line of credit for you
+You may apply for a secured or unsecured line of credit. Make sure that the line of credit meets your needs.
+Banks must:
+- offer and sell you products that are appropriate for you based on your:
+- circumstances
+- financial needs
+- tell you if they've assessed that a product or service isn't appropriate for you
+Take the time to describe your financial situation to ensure you get the right product. Ask questions and make sure you understand the line of credit you have or want.
+Different types of lines of credit may include the following.
+### Secured line of credit
+With a secured line of credit, you use an asset as collateral. For example, the asset could be your car or your home. If you don't pay back what you owe, the lender may take possession of that asset. The advantage is that you may get a lower interest rate than with an unsecured line of credit.
+### Home equity line of credit
+A home equity line of credit (HELOC) is a type of secured credit where your house acts as collateral. It usually has a higher credit limit and a lower interest rate than other loans and lines of credit.
+### Unsecured line of credit
+With an unsecured line of credit, there is no asset securing your loan. Some types include personal lines of credit and student lines of credit.
+### Personal line of credit
+You may use a personal line of credit for unexpected expenses or for consolidating higher interest rate loans. Interest rates are usually lower than for credit cards and personal loans.
+### Student line of credit
+A student line of credit is specifically for paying for post-secondary education.
+You may use it to help pay for basic expenses, such as tuition, books, and housing.
+Learn more about how student lines of credit.
+
+[S3] Rent to own retail plans — What happens if you can’t make your payments
+If you can’t make your payments, you may return the item to the company. You won’t get back the money you’ve paid.
+If you miss a payment, 1 of the following things usually happens:
+- the company takes back, or repossesses the item, or
+- you need to pay for the item in full to keep it
+You may also need to pay a penalty fee for breaking your agreement.
+For more information on the consequences of missing a payment, check the terms and conditions of your agreement.
+
+[S4] Personal loans — Types of personal loans
+There are 2 types of personal loans, secured loans and unsecured loans.
+### Secured loans
+A secured personal loan uses an asset, such as your car, as a collateral. It’s a promise to your lender that you’ll pay back the loan. If you’re unable to make your payments, the lender may take the asset from you.
+There are various kinds of secured loans, including:
+- secured personal loans
+- title loans
+- pawn loans
+### Unsecured loans
+An unsecured personal loan is a loan that doesn’t require collateral. If you don’t make your payments, your lender may sue you. They also have other options, such as taking money from your account.
+Learn more about when financial institutions can take money from your account.
+
+[S5] Title loans — Insurance and title loans
+Your title loan lender will ask for proof of insurance on your car when you apply for a title loan. You have the right to get insurance from any insurance provider you choose.
+Lenders do this to make sure they get their money back if something happens to your car. For example, if your car is in an accident or stolen.
+In some provinces and territories, you must let your insurance company know any time there’s a new lien on your car. If you don’t and your car is in an accident or stolen, your insurance company may deny your claim. This means that you would be responsible for paying the remaining cost of your title loan yourself. It also means that you may no longer have your car.
+Check with your insurance company before you get a title loan.",correct,no,"GRADED BY CLAUDE (AI), blind to judge: NOT fully supported: 'check your agreement with your financial institution' is not in any passage; also hedges unnecessarily since S2 directly covers cars"
+S35,single,"Does the federal government oversee title loans, and who sets the rules for title loan lenders?","The federal government does not oversee title loans. Provinces and territories set their own rules and regulations for title loan lenders, and some may require a license or registration to operate.","No, the federal government doesn't oversee title loans [S1]. Provinces and territories set their own rules and regulations for title loan lenders, and some lenders may need a license or registration to operate [S1]. You can find details from your provincial or territorial Consumer Affairs office [S1].","[S1] Title loans — Title loan rules and regulations
+The federal government doesn’t oversee title loans.
+Provinces and territories have different rules and regulations for title loan lenders. For example, some title loan lenders may need to have a license or be registered to operate.
+You may find information on rules and regulations with your provincial or territorial Consumer Affairs office.
+Find your provincial or territorial Consumer Affairs office.
+
+[S2] Choosing a financial institution — Checking what protections apply to you
+Before you choose a financial institution, check what protections apply. These are your rights when you deal with a financial institution or company.
+This may affect:
+- what information you get about a product or service
+- what information you get when you apply for and get a product or service
+- how and when you have the right to get information
+- how you can make a complaint and how it’s resolved
+- how deposit insurance protects your deposits
+- your protection against transactions you didn’t approve
+The level of protection depends on the regulator.
+Learn more about federal oversight bodies and other regulators.
+### Federally regulated financial institutions
+The federal government regulates some financial institutions. They may operate anywhere in Canada. They’re often larger and may offer more products and services.
+Examples include:
+- all banks
+- federal credit unions
+- federal trust and loan companies
+- insurance companies
+Federal regulators make sure these financial institutions follow federal laws and rules. This helps keep them financially sound and helps them meet required standards.
+Laws and rules help keep Canada’s financial system safe.
+They also help protect your rights when you deal with a financial institution.
+Check if your financial institution is federally regulated.
+Learn more about your financial rights and responsibilities.
+### Provincial and territorial financial institutions and companies
+Provinces and territories regulate financial institutions and companies that are not federally regulated. They usually operate only in that province or territory.
+Many offer products and services like federally regulated financial institutions. Each province and territory has its own regulators.
+They oversee these financial institutions, companies and most investment products and services. The laws and rules may vary from one province or territory to another.
+Learn more about provincial and territorial regulators.
+### Deposit insurance
+If your financial institution fails, deposit insurance protects eligible deposits up to a set limit.
+The Canada Deposit Insurance Corporation (CDIC) protects eligible deposits at federally regulated financial institutions that are members. The limit is $100,000 for each type of deposit at each member institution.
+
+[S3] Title loans — Paying back a title loan on time
+If you miss a payment or can’t pay back your title loan by the due date:
+- the lender may charge you a fee if there isn’t enough money in your account
+- your financial institution may also charge you a non-sufficient funds (NSF) fee
+- you may enter into more debt and pay additional fees if you extend the term of the loan. Lenders also called this rolling over the loan
+- you may hurt your credit score
+- the lender may activate a GPS tracking device and ignition immobilizer
+- the lender may seize your car
+- if the lender seizes your car, you may need to pay extra costs
+
+[S4] Payday loans — Where to get a payday loan
+Privately owned companies offer payday loans in stores and online. They must follow the rules set by the province or territory where they do business.
+Each province sets its own rules about payday loans. The territories don’t have specific rules.
+Contact your provincial or territorial Consumer Affairs office to learn more about payday lending rules.
+Payday lenders must have a license to issue payday loans in your province or territory. Make sure you’re dealing with a licensed payday lender.
+Your province or territory may have tools that allow you to check if a payday lender has a licence.
+Select your province in the Consumer Hub to find tools and resources on payday loans.
+Beware of online payday lenders located outside Canada. If you have problems with them, it may be difficult to resolve.
+
+[S5] Title loans — Things to expect when you get a title loan
+Title loans vary between lenders. Some lenders won’t give you a title loan if you owe money on your car.
+Some lenders use the value of your car to determine:
+- the interest rate you’ll pay
+- your repayment terms
+- the amount of money you may borrow
+Read the details of your contract carefully before you sign. Ask your lender for a copy of the agreement. Ask questions about anything you don’t understand.
+Learn more about what to consider before borrowing money.
+### What you’re entitled to know before taking out a title loan
+When you get a title loan, you have the right to receive specific information in your contract documents.
+This information may include total cost, interest rate, additional fees and more.
+Information may differ depending on your province or territory.
+Check with your province or territory to learn more about the information you should receive.
+### Liens
+A lien is a lender’s claim for repayment that is registered against a car.
+Most lenders will check to make sure there isn’t already a lien on your car. If there is already a lien, the lender may still offer you a title loan. That would be the case if your car may be sold for more than the amount of the existing lien.
+The lien will stay registered on the car until the title loan is paid off.
+Learn more about the risks associated with car liens.
+### GPS and car immobilizer devices
+Lenders may install a Global Positioning System (GPS) device and a car immobilizer when you get a title loan. They might also keep a copy of your keys.
+A GPS device allows a lender to track the location of your car. A car immobilizer allows the lender to shut off your car’s starter remotely. It’s also known as a vehicle or ignition immobilizer or starter interrupter.
+Depending on the province or territory you live in, these devices may not be allowed.
+Make sure you understand how the lender will use these devices before taking a title loan.
+### Fees",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S38,single,Do open mortgages usually have higher or lower interest rates than closed mortgages with similar terms?,Open mortgages typically have higher interest rates than closed mortgages with similar terms. Open mortgages offer more flexibility for putting extra money toward the mortgage.,"Open mortgages usually have higher interest rates than closed mortgages with similar terms [S1]. Closed mortgages typically have lower rates, but they usually limit how much extra money you can put toward the mortgage each year [S1].","[S1] Choosing a mortgage that is right for you — How your mortgage choices affect your future
+Make sure you consider the future impacts of your mortgage choices. This may help you avoid paying a penalty fee in the future.
+Mortgage lenders charge a penalty fee when you break your contract. This means, if you sell your home, you could owe the lender thousands of dollars in penalty fees.You could also pay penalty fees if you pay off your mortgage early.
+You may need flexibility with your mortgage. This may be the case if you plan on selling your home before you pay your mortgage in full.
+Options related to mortgage flexibility include the fact that your mortgage:
+- is open or closed
+- is portable
+- is assumable
+- has a standard or collateral security registration
+Learn more about mortgage prepayment penalties.
+### Open and closed mortgages
+There are a few differences between open and closed mortgages. The main difference is the flexibility you have in making extra payments or paying off your mortgage.
+#### Open mortgages
+Open mortgages typically have higher interest rates than closed mortgage with similar terms. They allow more flexibility if you plan on putting extra money toward your mortgage.
+An open mortgage may be a good choice for you if you:
+- plan to pay off your mortgage soon
+- plan to sell your home soon
+- think you may have extra money to put toward your mortgage from time to time
+#### Closed mortgages
+Closed mortgages typically have lower interest rates than open mortgages with similar terms. There’s usually a limit on the amount of extra money you may put toward your mortgage each year.
+Your lender includes this in your mortgage contract and calls it a prepayment privilege. Not all lenders allow prepayment privileges on closed mortgages. These privileges vary from lender to lender.
+A closed mortgage may be a good choice for you if:
+- you plan to keep your home for the rest of your mortgage term
+- the prepayment privileges provide enough flexibility for the prepayments you expect to make
+Learn more about prepayment privileges.
+### Portable mortgages
+
+[S2] Choosing a mortgage that is right for you — What to consider when getting a mortgage
+- purchasing a new build
+- 25 years in all other cases
+If your down payment is more than 20% of your home’s price, your lender sets your maximum amortization period.
+Learn more about mortgage terms and amortization.
+### Interest rate
+Lenders use the interest rate to calculate the fees they charge you to borrow money. With a higher interest rate, you pay higher interest fees.
+Every time you renew your mortgage term, you renegotiate your mortgage interest rate. This means your mortgage payments may be higher or lower in the future.
+When you apply for a mortgage, your lender offers you an interest rate. You may be able to negotiate a lower rate with your lender.
+The interest rate your lender offers you may depend on:
+- the length of your mortgage term
+- the type of interest you choose
+- the current posted interest rate offered by your lender
+- your credit history
+- if you’re self-employed
+- if you qualify for a discounted interest rate
+- the type of lender you choose like a bank, credit union, financing company or mortgage investment company
+- ·the specific lender
+Before you commit to a lender, shop around to get the best rate. This could save you thousands of dollars.
+Learn more about mortgage interest rates.
+### Types of interest
+When you apply for a mortgage, your lender may offer different interest options.
+#### Fixed interest rate
+A fixed interest rate stays the same for the entire term. It’s usually higher than a variable interest rate for a similar term. With a fixed interest rate, your payments stay the same for the entire term.
+#### Variable interest rate
+A variable interest rate may increase and decrease during the term. Typically, a variable interest rate is lower than a fixed interest rate for a similar term. With a variable interest rate, you may keep your payments the same for the duration of your term.
+Lenders call this a fixed payment with a variable interest rate.
+
+[S3] Interest on mortgages — Fixed interest rate mortgage
+Fixed interest rates stay the same for your entire term. They are usually higher than variable interest rates.
+A fixed interest rate mortgage may be better for you if you want to:
+- keep your payments the same over the term of your mortgage
+- know in advance how much principal you’ll pay by the end of your term
+- keep your interest rate the same because you think market interest rates will go up
+
+[S4] Mortgage terms and amortization — How the mortgage term affects your costs
+Your mortgage term sets the duration of your contract.
+The length of your term may impact:
+- your interest costs
+- the amount of your prepayment penalty if you break your mortgage contract
+### Interest costs
+Your mortgage may have a fixed or a variable interest rate. A fixed interest rate stays the same throughout the duration of your term. A variable interest rate may change during your term.
+Lenders may offer different interest rates for different interest types with a comparable term length.
+For example, for a 5-year term, they may offer you:
+- a fixed interest rate of 5.5% or
+- a variable interest with an initial rate of 6.5%
+Lenders may also offer different interest rates for different mortgage term lengths. They usually offer lower rates for shorter terms and higher rates for longer terms.
+Your interest rate has an impact on your mortgage payments. Your payments are higher if your interest rate is higher.
+Figure 2: Example of monthly payments for a $300,000 mortgage with a 25-year amortization period at different interest rates
+Text version: Figure 2
+Interest rate | Monthly payment | Interest cost over 5 years | Interest cost over 25 years |
+2.5% | $1,343.90 | $34,547.72 | $103,169.61 |
+2.9% | $1,404.39 | $40,192.59 | $121,316.44 |
+3.4% | $1,482.02 | $47,285.46 | $144,606.01 |
+3.8% | $1,545.70 | $52,986.59 | $163,711.17 |
+4.0% | $1,587.06 | $55,845.39 | $173,418.18 |
+4.5% | $1,660.42 | $63,014.30 | $198,125.66 |
+4.8% | $1,710.82 | $67,329.43 | $213,245.00 |
+5.0% | $1,744.81 | $70,211.42 | $223,444.49 |
+5.2% | $1,779.13 | $73,097.31 | $233,738.23 |
+Shop around to get the best interest rate for your mortgage term. You may be able to negotiate a lower interest rate with your lender or mortgage broker.
+Learn more about interest on mortgages.
+Learn more about choosing a financial institution.
+### Prepayment penalty costs
+You may need to pay a prepayment penalty if you:
+- renegotiate your mortgage before the end of your term
+- pay off your mortgage before the end of your term
+
+[S5] Interest on mortgages — Variable interest rate mortgage
+A variable interest rate mortgage with fixed payments may be riskier than you expect. When interest rates rise, more of each payment automatically goes toward interest costs.
+You could end up in a situation where none of your payment goes toward paying down the principal. Instead of paying down your mortgage, the total amount you owe on your mortgage will increase. You may have to contribute more capital to avoid problems renewing your mortgage. Acting early is important to prevent the situation from getting worse.
+If you have a variable interest rate mortgage with fixed payments, contact your financial institution as soon as possible to discuss your options.
+A variable interest rate can increase and decrease during your term. If you choose a variable interest rate, your rate may be lower than if you selected a fixed rate.
+The rise and fall of interest rates are difficult to predict. Consider how much of an increase in mortgage payments you’d be able to afford if interest rates rise. Note that between 2005 and 2015, interest rates varied from 0.5% to 4.75%.
+Consider if you’re comfortable with the possibility of interest rates increasing. Determine if your budget could handle higher payments. If not, a fixed interest rate mortgage may be better for you. You may also consider fixed payments with a variable interest rate.
+A variable interest rate mortgage may be better for you if you’re comfortable with:
+- your interest rate changing
+- your mortgage payments potentially changing
+- the need to follow interest rates closely if your mortgage has a convertibility option
+Get information on current interest rates from the Bank of Canada or your lender’s website.
+### Fixed payments with a variable interest rate
+If the interest rate goes up, more of your payment goes towards the interest, and less to the principal.
+If the interest rate goes down, more of your payment goes towards to the principal. This means, you pay off your mortgage faster.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"
+S41,single,"If my down payment is less than 20% of the home's price and I'm a first-time buyer, what is the maximum amortization period I can get?",A first-time buyer with a down payment under 20% of the home's price has a maximum amortization period of 30 years. The 25-year maximum applies in all other cases with a down payment under 20%.,"If your down payment is less than 20% of the home's price and you are a first-time buyer, the maximum amortization period is 30 years [S1][S3]. This applies to first-time buyers and also to anyone purchasing a new build [S1][S3]. A 25-year maximum applies in all other cases with a down payment under 20% [S1][S3].","[S1] Mortgage terms and amortization — What are mortgage terms and amortization
+When you’re shopping for a mortgage, you need to choose the term and amortization period.
+The term and amortization period impact:
+- your overall costs
+- your interest rates
+- the amount of your regular payments
+### Mortgage term
+The mortgage term is the time your mortgage contract is in effect. Terms may range from a few months to 5 years or more.
+At the end of each term, you’ll need to renew your mortgage. You’ll likely need multiple terms to repay your mortgage. If you pay the balance at the end of your term, you don’t need to renew your mortgage.
+### Mortgage amortization
+The amortization period is the time it takes to pay your mortgage. The amortization period is an estimate based on your current term's interest rate.
+If your down payment is less than 20% of your home’s price, your maximum amortization period is:
+- 30 years if you’re:
+- a first-time buyer and/or
+- purchasing a new build
+- 25 years in all other cases
+If your down payment is more than 20% of your home’s price, your lender sets your maximum amortization period.
+Figure 1: Example of a $300,000 mortgage with a 5-year term and a 25-year amortization period
+Text version: Figure 1 Visual representation of a $300,000 mortgage with a 5-year term and a 25-year amortization. The mortgage amount decreases from year 1 to year 25, according to the payments. Years 1 through 5 represent the term. Years 1 to 25 represent the amortization.
+
+[S2] How much you need for a down payment — What is a minimum down payment
+A down payment is the amount of money you put towards the purchase of a home. Your lender deducts the down payment from the purchase price of your home. Your mortgage covers the rest of the price of the home.
+The minimum amount you need for your down payment depends on the purchase price of the home.
+If your down payment is less than 20% of the price of your home, you’ll typically need to buy mortgage loan insurance.
+Table 1: The minimum down payment based on the purchase price of your home Purchase price of your home | Minimum amount of down payment |
+$500,000 or less |
+- 5% of the purchase price
+$500,000 to $1.5 million |
+- 5% of the first $500,000 of the purchase price
+- 10% for the portion of the purchase price above $500,000
+$1.5 million or more |
+- 20% of the purchase price
+If you’re self-employed or have a poor credit history, your lender may require a larger down payment.
+Normally, the minimum down payment must come from your own funds. It’s better to save for a down payment and minimize your debts.
+### Example: How to calculate your minimum down payment
+The calculation of the minimum down payment depends on the purchase price of the home.
+#### If the purchase price of your home is $500,000 or less
+Suppose the purchase price of your home is $400,000. You need a minimum down payment of 5% of the purchase price. The purchase price multiplied by 5% is equal to $20,000.
+#### If the purchase price of your home is more than $500,000
+Suppose the purchase price of your home is $600,000. You can calculate your minimum down payment by adding 2 amounts. The first amount is 5% of the first $500,000, which is equal to $25,000. The second amount is 10% of the remaining balance of $100,000, which is equal to $10,000. Add both amounts together which gives you a total of $35,000.
+
+[S3] Choosing a mortgage that is right for you — What to consider when getting a mortgage
+Many types of lenders such as banks, credit unions, and other financial institutions offer mortgages. Mortgage brokers also offer mortgages by connecting borrowers with mortgage lenders. Make sure you choose the right lender for your needs.
+Learn more about choosing a financial institution.
+When you shop for a mortgage, your lender or mortgage broker provides you with options. Make sure you understand the options and features. This will help you choose a mortgage that best suits your needs.
+Federally regulated banks must offer and sell you products and services that are appropriate for you. They must consider your circumstances and financial needs. They must also tell you if they’ve assessed that a product or service isn’t appropriate for you.
+Take the time to describe your financial situation to make sure you get the right product or service. Don't hesitate to ask questions and make sure you understand the mortgage you have or want.
+### Term
+The mortgage term is the length of time your mortgage contract is in effect. Terms may range from just a few months to 5 years or longer.
+At the end of each term, you must renew your mortgage. That’s the case if you can’t pay the remaining balance. You’ll most likely require multiple terms to repay your mortgage.
+The length of your mortgage term has an impact on:
+- your interest rate and the type of interest you get (fixed or variable)
+- the penalties you’ll need to pay if you break your mortgage contract before the end of your term
+- how soon you’ll need to renew your mortgage contract
+### Amortization
+The amortization period is the length of time it takes to pay off your mortgage. With a longer amortization period, you spread your payments over a longer period. This means your payments are typically lower. Keep in mind that the longer you take to pay off your mortgage, the more interest you pay.
+If your down payment is less than 20% of your home’s price, your maximum amortization period is:
+- 30 years if you’re:
+- a first-time buyer and/or
+
+[S4] Choosing a mortgage that is right for you — What to consider when getting a mortgage
+- purchasing a new build
+- 25 years in all other cases
+If your down payment is more than 20% of your home’s price, your lender sets your maximum amortization period.
+Learn more about mortgage terms and amortization.
+### Interest rate
+Lenders use the interest rate to calculate the fees they charge you to borrow money. With a higher interest rate, you pay higher interest fees.
+Every time you renew your mortgage term, you renegotiate your mortgage interest rate. This means your mortgage payments may be higher or lower in the future.
+When you apply for a mortgage, your lender offers you an interest rate. You may be able to negotiate a lower rate with your lender.
+The interest rate your lender offers you may depend on:
+- the length of your mortgage term
+- the type of interest you choose
+- the current posted interest rate offered by your lender
+- your credit history
+- if you’re self-employed
+- if you qualify for a discounted interest rate
+- the type of lender you choose like a bank, credit union, financing company or mortgage investment company
+- ·the specific lender
+Before you commit to a lender, shop around to get the best rate. This could save you thousands of dollars.
+Learn more about mortgage interest rates.
+### Types of interest
+When you apply for a mortgage, your lender may offer different interest options.
+#### Fixed interest rate
+A fixed interest rate stays the same for the entire term. It’s usually higher than a variable interest rate for a similar term. With a fixed interest rate, your payments stay the same for the entire term.
+#### Variable interest rate
+A variable interest rate may increase and decrease during the term. Typically, a variable interest rate is lower than a fixed interest rate for a similar term. With a variable interest rate, you may keep your payments the same for the duration of your term.
+Lenders call this a fixed payment with a variable interest rate.
+
+[S5] How much you need for a down payment — How the down payment affects the total cost of your mortgage
+Save as much as you can for your down payment. The bigger the down payment, the smaller the mortgage, which may save you thousands of dollars in interest charges.
+### Example: How the size of a down payment affects the cost of a mortgage
+Suppose you buy a home that costs $400,000.
+Assume the following:
+- interest rate is 4%
+- amortization period is 25 years
+- payment frequency is monthly
+- mortgage loan insurance premiums are added to the mortgage
+Table 2: Effect of the size of a down payment on the total cost of a mortgage Down payment | Down payment amount | Mortgage
+| Mortgage loan insurance premium | Mortgage
+(includes insurance premium) | Total cost of your home
+(includes all columns) |
+5% | $20,000 | $380,000 | $15,200 | $395,200 | $643,649 |
+10% | $40,000 | $360,000 | $11,160 | $371,160 | $625,712 |
+20% | $80,000 | $320,000 | Not required | $320,000 | $584,979 |",correct,yes,"GRADED BY CLAUDE (AI), blind to judge: also correctly adds the new-build case from S1"
+S45,single,What counts as an unauthorized transaction on my bank or credit card account?,"Generally, any banking or credit card transaction that the customer didn't make or approve is an unauthorized transaction. However, each financial institution may define unauthorized transactions differently, so customers should check their card and account agreements.","Generally, any banking or credit card transaction that you didn't make or approve is an unauthorized transaction [S1]. This can happen when your debit or credit card, or mobile device, is lost or stolen, or when someone steals your identity and uses your information without your knowledge or consent [S1]. Each financial institution may define unauthorized transactions differently, so read your card and account agreements to confirm what your institution considers unauthorized [S1].","[S1] Resolving an unauthorized transaction — Recognizing an unauthorized transaction
+Generally, any banking or credit card transaction that you didn't make or approve is an unauthorized transaction.
+Unauthorized transactions may occur when you lose your debit or credit card, or mobile device, or someone steals them. A mobile device may include a smart phone, tablet or smart watch. Someone could also steal your identity and use your information to make transactions without your knowledge or consent.
+Each financial institution may define unauthorized transactions differently. Read your credit card, debit card and account agreements carefully. Make sure you understand what your financial institution considers an unauthorized transaction.
+
+[S2] Resolving an unauthorized transaction — Reporting an unauthorized transaction
+If you think someone made an unauthorized transaction using your card or account, or if there’s a risk of this happening:
+- change your passwords and PINs immediately
+- notify your financial institution or credit card issuer immediately
+- report any transactions you didn't make or approve
+- check your credit report for any credit you didn't apply for or any suspicious activity
+- continue to monitor your accounts after you report it
+In some cases, you may need to report the incident within a specific amount of time. Your account agreement specifies this. If you don’t, you may be held responsible for the transaction and you may not get the amount back.
+For deposit accounts, like chequing or savings accounts, you usually have 30 days after the date of your statement to dispute a transaction. However, this could differ from one financial institution to another.
+When you report an unauthorized transaction, federally regulated financial institutions must always investigate the incident. They must take all relevant factors into account before finding you at fault. This is regardless of the method or technology used to process the unauthorized transaction.
+
+[S3] Resolving an unauthorized transaction — Paying for an unauthorized transaction
+In most cases, you will not be held responsible for transactions you didn't make or approve. This is if you took the necessary precautions to safeguard your account information.
+### Unauthorized debit card transaction
+You’re protected against unauthorized transactions when you use debit card services:
+- in store
+- at a point-of-sale terminal
+- at an ATM
+- online
+You should immediately report any unauthorized transaction to your financial institution.
+If you took the necessary steps to protect your PIN, you should get your money back.
+You're not responsible for losses that result from circumstances beyond your control, which include:
+- technical problems. For example, the ATM didn’t give you the full amount of cash you asked for, but still deducts the amount requested from your account
+- unauthorized transactions. As long as you didn’t contribute to the loss by not taking the necessary steps to protect your PIN
+- someone forced you to use your card
+- someone obtained your PIN by looking over your shoulder. This is called shoulder surfing
+You could be responsible for losses in situations where you contribute to or encourage unauthorized use of your card.
+You could be liable for losses if you:
+- use your date of birth or telephone number as your PIN
+- share your PIN with someone, even if it’s a family member
+- keep a written record of the PIN close to the card or write your PIN on the back of the card
+- didn't report your lost or stolen card in the amount of time specified in your card agreement
+- refuse to cooperate in an investigation of unauthorized use of your card
+- made fraudulent deposits with your card
+- didn't take the necessary steps to protect your PIN
+Read your card or account agreements to make sure you know your responsibilities when using a debit card.
+### Unauthorized credit card transaction
+
+[S4] Resolving an unauthorized transaction — Paying for an unauthorized transaction
+When an unauthorized transaction is made with your credit card, your maximum liability, by law, can't be more than $50.00 unless you demonstrated gross negligence. Your credit card agreement must explain your maximum liability if your card is used without your permission.
+Visa, Mastercard, American Express and Interac have committed to protect you against financial loss if your credit or debit card is used without your permission. According to this public commitment, you will not be held responsible for the unauthorized transactions.
+Learn more about these commitments and policies.
+
+[S5] Online banking — Understanding your responsibilities when banking online
+To stay protected from financial loss from an unauthorized transaction:
+- don’t give your PIN, password or security answers to anyone, not even family
+- follow your user agreement for how to use and protect your banking information, like log-in details and passwords
+- check your accounts regularly for transactions you didn’t make or approve
+- contact your financial institution or service provider as soon as you find an error or suspicious transaction
+You may need to take more steps to protect yourself when banking online. Read your account agreement. Check your financial institution’s online banking or electronic access agreement to learn more.
+### Unauthorized transactions
+Most financial institutions have policies that protect you from unauthorized transactions. This includes transactions you didn’t make or approve.
+You're responsible for keeping your banking and online banking details to yourself.
+If you give your banking information to anyone, including a spouse, partner, family member or friend, you may:
+- lose the protection against unauthorized transactions offered by your financial institution
+- be responsible for any unauthorized transactions
+Contact your financial institution about its online banking policies and protections.
+Learn more about your rights and responsibilities for unauthorized credit or debit transactions.
+### Passwords and PINs
+Choose strong passwords for online banking accounts. If you use a password that’s easy to guess, you may be responsible for transactions you didn’t make or approve.
+### Tip
+Strengthen your passwords. Create a unique password for each account. Use a mix of upper- and lower-case letters, numbers and symbols.
+Malware (malicious software) can damage your devices and put your financial information at risk. Malware can expose your passwords and PINs. If that happens, you may be responsible for unauthorized transactions.",correct,yes,"GRADED BY CLAUDE (AI), blind to judge"

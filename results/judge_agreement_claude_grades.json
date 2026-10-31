@@ -1,0 +1,62 @@
+{
+  "run": "hybrid-heading-bge-small",
+  "n": 20,
+  "grades_file": "eval/claude_grades.csv",
+  "correctness": {
+    "agreement": 0.85,
+    "kappa": 0.0,
+    "judge_more_lenient": 0,
+    "judge_stricter": 3
+  },
+  "fully_supported": {
+    "agreement": 1.0,
+    "kappa": 1.0,
+    "judge_more_lenient": 0,
+    "judge_stricter": 0
+  },
+  "correct_vs_not": {
+    "agreement": 0.85,
+    "kappa": 0.0
+  },
+  "disagreements": [
+    {
+      "id": "M10",
+      "human": [
+        "correct",
+        "yes"
+      ],
+      "judge": [
+        "partial",
+        "yes"
+      ],
+      "judge_explanation": "The answer covers the checklist and the advice to keep the old account open, all well supported by passages. However, it states the \"keep open\" advice cites S1 but omits the reference's key point that the institution may move pre-authorized debits (in S3), and it frames the answer around closing rather than explicitly tying the open-during-transfer rationale to automatic payments.",
+      "human_notes": "GRADED BY CLAUDE (AI), blind to judge: every step traced to S1/S2; 'confirmed the new account works' paraphrases S3/S1"
+    },
+    {
+      "id": "S06",
+      "human": [
+        "correct",
+        "yes"
+      ],
+      "judge": [
+        "partial",
+        "yes"
+      ],
+      "judge_explanation": "The answer correctly says to keep the old account open and cites supporting passages, but it omits the reference's key point that institutions can arrange to move automatic payments such as pre-authorized debits to the new account. The claims it makes are all accurately supported.",
+      "human_notes": "GRADED BY CLAUDE (AI), blind to judge"
+    },
+    {
+      "id": "S38",
+      "human": [
+        "correct",
+        "yes"
+      ],
+      "judge": [
+        "partial",
+        "yes"
+      ],
+      "judge_explanation": "The answer correctly states open mortgages have higher rates and cites S1 accurately, but omits the reference's key point that open mortgages offer more flexibility for extra payments. All claims are supported by S1.",
+      "human_notes": "GRADED BY CLAUDE (AI), blind to judge"
+    }
+  ]
+}
