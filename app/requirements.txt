@@ -1,0 +1,13 @@
+# Dependencies for the deployed app only (Streamlit Community Cloud reads this file
+# because it sits next to the app). The full local environment is in ../requirements.txt.
+
+# CPU-only PyTorch: much smaller than the default GPU build, and the cloud has no GPU.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+
+sentence-transformers>=3.0
+streamlit>=1.40
+anthropic>=0.40
+python-dotenv>=1.0
+numpy>=1.26
+pandas>=2.0
