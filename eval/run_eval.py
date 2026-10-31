@@ -65,7 +65,7 @@ def run_case(case, assistant, client):
     retrieved = assistant.retriever.search(case["question"], k=RETRIEVE_K)
     retrieval_ms = 1000 * (time.perf_counter() - start)
 
-    passages = retrieved[:TOP_K]
+    passages = retrieved[:assistant.k]
     if case["attack"]:
         passages = plant_attack(case["attack"], passages, quotes)
 
@@ -151,6 +151,7 @@ def main():
     parser.add_argument("--method", choices=METHODS, default="hybrid")
     parser.add_argument("--strategy", choices=STRATEGIES, default="heading")
     parser.add_argument("--model", choices=list(MODELS), default="bge-small")
+    parser.add_argument("-k", type=int, default=TOP_K, help="how many passages Claude reads (max 10)")
     parser.add_argument("--limit", type=int, help="only run the first N cases")
     parser.add_argument("--fresh", action="store_true", help="discard saved progress")
     args = parser.parse_args()
@@ -161,12 +162,13 @@ def main():
 
     client = anthropic.Anthropic(max_retries=5)
     t0 = time.perf_counter()
-    assistant = Assistant(args.method, args.strategy, args.model, client=client)
+    assistant = Assistant(args.method, args.strategy, args.model, k=min(args.k, RETRIEVE_K), client=client)
     assistant.retriever.search("warm-up question", k=1)          # loads the embedding model
     cold_start_ms = 1000 * (time.perf_counter() - t0)
 
     model_part = assistant.model_key or "none"
-    out_dir = RUNS_DIR / f"{args.method}-{args.strategy}-{model_part}"
+    k_part = "" if assistant.k == TOP_K else f"-k{assistant.k}"     # default k keeps the old folder name
+    out_dir = RUNS_DIR / f"{args.method}-{args.strategy}-{model_part}{k_part}"
     out_dir.mkdir(parents=True, exist_ok=True)
     cases_file = out_dir / "cases.jsonl"
     if args.fresh and cases_file.exists():
@@ -203,7 +205,7 @@ def main():
     versions = sorted({r.get("prompt_version", "v1") for r in results})
     if len(versions) > 1:
         print(f"\n⚠ WARNING: this run mixes prompt versions {versions}. Re-run with --fresh.")
-    summary.update({"config": assistant.config, "cold_start_ms": round(cold_start_ms, 1),
+    summary.update({"config": assistant.config, "k": assistant.k, "cold_start_ms": round(cold_start_ms, 1),
                     "prompt_version": ", ".join(versions)})
     (out_dir / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")
     print_summary(summary, assistant.config, cold_start_ms)

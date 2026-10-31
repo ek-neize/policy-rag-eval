@@ -6,3 +6,7 @@ data/index/
 results/query_log.jsonl
 results/feedback_log.jsonl
 results/feedback_log.jsonl
+
+.agents/
+.claude/
+.~lock.*
