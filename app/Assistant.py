@@ -12,6 +12,7 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
+import anthropic
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -171,8 +172,16 @@ if ask:
     elif spent_today() >= DAILY_BUDGET_USD:
         st.error("The demo's daily budget has been reached. Please try again tomorrow.")
     else:
-        with st.spinner("Searching FCAC guidance and writing an answer..."):
-            result = assistant.ask(question.strip(), log=False)
+        try:
+            with st.spinner("Searching FCAC guidance and writing an answer..."):
+                result = assistant.ask(question.strip(), log=False)
+        except anthropic.AuthenticationError:
+            st.error("The assistant isn't configured correctly (API key problem). "
+                     "The owner has been notified in the logs.")
+            st.stop()
+        except anthropic.APIError:
+            st.error("The assistant is temporarily unavailable. Please try again in a minute.")
+            st.stop()
         result["query_id"] = uuid.uuid4().hex[:12]
         result["source"] = "app"
         write_log(result)
